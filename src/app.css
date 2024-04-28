@@ -1,0 +1,35 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+h1 {
+	@apply text-3xl font-bold py-2;
+}
+
+h2 {
+	@apply text-2xl font-bold py-2;
+}
+
+h3 {
+	@apply text-xl font-semibold py-2;
+}
+
+h4 {
+	@apply text-lg font-semibold py-2;
+}
+
+p {
+	@apply text-gray-700 py-1;
+}
+
+ul {
+	@apply list-disc pl-8 py-1 text-gray-700;
+}
+
+ol {
+	@apply list-decimal pl-8 py-1 text-gray-700;
+}
+
+a {
+	@apply hover:underline;
+}

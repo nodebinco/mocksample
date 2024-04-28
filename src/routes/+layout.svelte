@@ -1,6 +1,6 @@
 <script>
 	import Header from './Header.svelte';
-	import 'tailwindcss/tailwind.css';
+	import '../app.css';
 	import logo from '$lib/images/logo.svg';
 </script>
 
@@ -14,8 +14,10 @@
 	<footer class="footer p-6 bg-base-200 text-base-content">
 		<aside>
 			<a class="font-bold text-xl" data-sveltekit-preload-data="tap" href="/">MockSample</a>
-			<p>The sample data you need, when you need it</p>
-			<p>Copyright © 2024 Powered by <a href="/">MockSample.com</a></p>
+			<p>
+				The sample data you need, when you need it<br />
+				Copyright © 2024 Powered by <a href="/">MockSample.com</a>
+			</p>
 		</aside>
 		<nav>
 			<a class="link link-hover">Document</a>
@@ -26,8 +28,8 @@
 		<nav>
 			<a class="link link-hover">Blog</a>
 			<a class="link link-hover">About Us</a>
-			<a class="link link-hover">Terms of Use</a>
-			<a class="link link-hover">Privacy Policy</a>
+			<a class="link link-hover" href="/contact-us">Contact Us</a>
+			<a class="link link-hover" href="/privacy-policy">Privacy Policy</a>
 		</nav>
 	</footer>
 </div>
