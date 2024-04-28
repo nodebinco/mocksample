@@ -57,14 +57,14 @@
 		free to download and use. We care for our content. All files are safe from viruses and
 		adults-only content.
 	</p>
-	<div class="mt-8 grid grid-cols-1 md:grid-cols-3 gap-6">
+	<div class="my-8 grid grid-cols-1 md:grid-cols-3 gap-6">
 		{#each Object.entries(files) as [key, value]}
 			<div class="card bg-base-100 shadow">
 				<div class="card-body">
 					<h2 class="card-title">{value.name}</h2>
 					<p>{value.description}</p>
 					<div class="card-actions justify-center mt-2">
-						<button class="btn btn-primary w-full">Browse</button>
+						<button class="btn w-full">Browse</button>
 					</div>
 				</div>
 			</div>
