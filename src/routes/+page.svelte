@@ -5,40 +5,48 @@
 		{
 			name: 'Video Files',
 			description:
-				'These video files are excellent for use in testing and demos. Download free files in a variety of formats.'
+				'These video files are excellent for use in testing and demos. Download free files in a variety of formats.',
+			slug: '/sample-video-files'
 		},
 		{
 			name: 'Audio Files',
 			description:
-				'Does the testing require MP3, WAV, or another audio format? Choose free files based on size and format.'
+				'Does the testing require MP3, WAV, or another audio format? Choose free files based on size and format.',
+			slug: '/sample-audio-files'
 		},
 		{
 			name: 'Document Files',
 			description:
-				'We provide a whole set of document formats: DOC, DOCX, ODT, PDF, XLS, PPT, PPS, and others. You can download these formats for free.'
+				'We provide a whole set of document formats: DOC, DOCX, ODT, PDF, XLS, PPT, PPS, and others. You can download these formats for free.',
+			slug: '/sample-document-files'
 		},
 		{
 			name: 'Image Files',
 			description:
-				'An image bank for testing. Download from various sizes and formats (jpg, png, gif, webp, avif).'
+				'An image bank for testing. Download from various sizes and formats (jpg, png, gif, webp, avif).',
+			slug: '/sample-image-files'
 		},
 		{
 			name: 'Other Files',
 			description:
-				'A collection of text files and archives. The files can be downloaded in HTML and CSV formats.'
+				'A collection of text files and archives. The files can be downloaded in HTML and CSV formats.',
+			slug: '/sample-other-files'
 		},
 		{
 			name: 'Lorem Ipsum Generator',
-			description: 'A tool that provide dummy paragraph generator according to the requirement. '
+			description: 'A tool that provide dummy paragraph generator according to the requirement.',
+			slug: '/lorem-ipsum-generator'
 		},
 		{
 			name: 'Data Generator',
-			description: 'Data Generator is a free tool that helps user to generate test data for free.'
+			description: 'Data Generator is a free tool that helps user to generate test data for free.',
+			slug: '/data-generator'
 		},
 		{
 			name: 'Placeholder Image Generator',
 			description:
-				'Placeholder Image Generator is a tool to generate dummy images that can be used to design web pages.'
+				'Placeholder Image Generator is a tool to generate dummy images that can be used to design web pages.',
+			slug: '/placeholder-image-generator'
 		}
 	];
 </script>
@@ -49,7 +57,7 @@
 </svelte:head>
 
 <section class="text-center max-w-5xl mx-auto">
-	<h1 class="mt-6">Mock Sample Files Download</h1>
+	<h1>Mock Sample Files Download</h1>
 
 	<p class="mt-2">
 		If you need example / dummy files for testing or demo and presentation purpose, this is a great
@@ -64,7 +72,7 @@
 					<h2 class="card-title">{value.name}</h2>
 					<p>{value.description}</p>
 					<div class="card-actions justify-center mt-2">
-						<button class="btn w-full">Browse</button>
+						<button class="btn w-full" href={value.slug}>Browse</button>
 					</div>
 				</div>
 			</div>

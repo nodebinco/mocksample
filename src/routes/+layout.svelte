@@ -217,7 +217,7 @@
 	<Header />
 
 	<div class="flex flex-col-reverse lg:flex-row">
-		<div class="w-full lg:w-1/5 p-6 mt-0 lg:mt-8">
+		<div class="w-full lg:w-1/5 p-6 mt-0 lg:mt-2">
 			<ul
 				class="list-none bg-gray-50 border border-gray-400 border-dashed rounded-lg py-3 grid grid-cols-2 lg:grid-cols-1"
 			>
