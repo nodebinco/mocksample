@@ -10,39 +10,39 @@
 			submenus: [
 				{
 					title: 'MP4',
-					slug: '/sample-mp4-video-files-download'
+					slug: '/sample-mp4-files'
 				},
 				{
 					title: 'FLV',
-					slug: '/sample-flv-video-files-download'
+					slug: '/sample-flv-files'
 				},
 				{
 					title: 'AVI',
-					slug: '/sample-avi-video-files-download'
+					slug: '/sample-avi-files'
 				},
 				{
 					title: 'MOV',
-					slug: '/sample-mov-video-files-download'
+					slug: '/sample-mov-files'
 				},
 				{
 					title: 'OGG',
-					slug: '/sample-ogg-video-files-download'
+					slug: '/sample-ogg-files'
 				},
 				{
 					title: 'WMV',
-					slug: '/sample-wmv-video-files-download'
+					slug: '/sample-wmv-files'
 				},
 				{
 					title: 'WEBM',
-					slug: '/sample-webm-video-files-download'
+					slug: '/sample-webm-files'
 				},
 				{
 					title: 'MKV',
-					slug: '/sample-mkv-video-files-download'
+					slug: '/sample-mkv-files'
 				},
 				{
 					title: '3GP',
-					slug: '/sample-3gp-video-files-download'
+					slug: '/sample-3gp-files'
 				}
 			]
 		},
