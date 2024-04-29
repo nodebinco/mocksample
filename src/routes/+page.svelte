@@ -10,12 +10,12 @@
 		{
 			name: 'Audio Files',
 			description:
-				'Does the testing require Mp3, WAV, or another audio format? Choose free files based on size and format.'
+				'Does the testing require MP3, WAV, or another audio format? Choose free files based on size and format.'
 		},
 		{
 			name: 'Document Files',
 			description:
-				'We provide a whole set of document formats: Doc, Docx, ODT, PDF, Xls, PPT, PPS, and others. You can download these formats for free.'
+				'We provide a whole set of document formats: DOC, DOCX, ODT, PDF, XLS, PPT, PPS, and others. You can download these formats for free.'
 		},
 		{
 			name: 'Image Files',

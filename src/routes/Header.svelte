@@ -39,21 +39,5 @@
 				><img class="h-8 w-8 mr-2" src={logo} alt="MockSample logo" /> MockSample</a
 			>
 		</div>
-		<div class="flex-none hidden md:block">
-			<ul class="menu menu-horizontal px-1">
-				<li>
-					<summary>Document</summary>
-				</li>
-				<li>
-					<summary>Image</summary>
-				</li>
-				<li>
-					<summary>Audio</summary>
-				</li>
-				<li>
-					<summary>Video</summary>
-				</li>
-			</ul>
-		</div>
 	</div>
 </header>
