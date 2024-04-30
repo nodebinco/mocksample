@@ -6,7 +6,7 @@
 <header>
 	<div class="navbar bg-[#EBEDEF]">
 		<div class="flex-1">
-			<a class="btn btn-ghost text-xl" data-sveltekit-preload-data="tap" href="/"
+			<a class="btn btn-ghost text-xl font-NotoSans" data-sveltekit-preload-data="tap" href="/"
 				><img class="h-8 w-8 mr-2" src={logo} alt="MockSample logo" /> MockSample</a
 			>
 		</div>

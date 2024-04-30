@@ -56,27 +56,35 @@
 				},
 				{
 					title: 'WAV',
-					slug: '/sample-wav-files'
-				},
-				{
-					title: 'OGG',
-					slug: '/sample-ogg-files'
-				},
-				{
-					title: 'M4A',
-					slug: '/sample-m4a-files'
+					slug: '/sample-wma-files'
 				},
 				{
 					title: 'FLAC',
 					slug: '/sample-flac-files'
 				},
 				{
+					title: 'AIFF',
+					slug: '/sample-aiff-files'
+				},
+				{
+					title: 'OGG',
+					slug: '/sample-ogg-files'
+				},
+				{
 					title: 'WMA',
 					slug: '/sample-wma-files'
 				},
 				{
+					title: 'M4A',
+					slug: '/sample-avi-files'
+				},
+				{
 					title: 'AAC',
 					slug: '/sample-aac-files'
+				},
+				{
+					title: 'ALAC',
+					slug: '/sample-alac-files'
 				}
 			]
 		},
@@ -84,10 +92,6 @@
 			title: 'Document Files',
 			slug: '/sample-document-files',
 			submenus: [
-				{
-					title: 'PDF',
-					slug: '/sample-pdf-files'
-				},
 				{
 					title: 'PDF',
 					slug: '/sample-pdf-files'
@@ -217,17 +221,19 @@
 	<Header />
 
 	<div class="flex flex-col-reverse lg:flex-row">
-		<div class="w-full lg:w-1/5 p-6 mt-0 lg:mt-2">
+		<div class="w-full lg:w-1/5 lg:min-w-72 p-6 mt-0 lg:mt-2">
 			<ul
 				class="list-none bg-gray-50 border border-gray-400 border-dashed rounded-lg py-3 grid grid-cols-2 lg:grid-cols-1"
 			>
 				{#each Object.entries(menus) as [key, value]}
 					<li class="mt-4">
-						<strong class="text-gray-900">{value.title}</strong>
+						<a data-sveltekit-preload-data="hover" href={value.slug}
+							><strong class="text-gray-900">{value.title}</strong></a
+						>
 						<ul class="list-none mt-2">
 							{#each Object.entries(value.submenus) as [k, v]}
 								<li class="-ml-5 py-1">
-									<a data-sveltekit-preload-data="tap" href={v.slug}>{v.title}</a>
+									<a data-sveltekit-preload-data="hover" href={v.slug}>{v.title}</a>
 								</li>
 							{/each}
 						</ul>
@@ -242,7 +248,9 @@
 
 	<footer class="footer py-6 bg-base-200 text-base-content">
 		<div class="text-center px-6">
-			<a class="font-bold text-xl" data-sveltekit-preload-data="tap" href="/">MockSample</a>
+			<a class="font-bold text-xl font-NotoSans" data-sveltekit-preload-data="tap" href="/"
+				>MockSample</a
+			>
 			<p>
 				Copyright © 2024 Powered by <a href="/">MockSample.com</a>
 			</p>

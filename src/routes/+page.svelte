@@ -1,6 +1,4 @@
 <script>
-	import Counter from './Counter.svelte';
-
 	const files = [
 		{
 			name: 'Video Files',
@@ -31,7 +29,8 @@
 			description:
 				'A collection of text files and archives. The files can be downloaded in HTML and CSV formats.',
 			slug: '/sample-other-files'
-		},
+		}
+		/*
 		{
 			name: 'Lorem Ipsum Generator',
 			description: 'A tool that provide dummy paragraph generator according to the requirement.',
@@ -48,12 +47,13 @@
 				'Placeholder Image Generator is a tool to generate dummy images that can be used to design web pages.',
 			slug: '/placeholder-image-generator'
 		}
+  */
 	];
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>MockSample | Free Sample Files and Mock Data</title>
+	<meta name="description" content="Free Sample Files and Mock Data" />
 </svelte:head>
 
 <section class="text-center max-w-5xl mx-auto">
@@ -72,7 +72,7 @@
 					<h2 class="card-title">{value.name}</h2>
 					<p>{value.description}</p>
 					<div class="card-actions justify-center mt-2">
-						<button class="btn w-full" href={value.slug}>Browse</button>
+						<a class="btn w-full" href={value.slug}>Browse</a>
 					</div>
 				</div>
 			</div>
