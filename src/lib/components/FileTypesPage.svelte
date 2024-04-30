@@ -22,14 +22,14 @@
 	<div class="overflow-x-auto mt-4 pb-4">
 		<table class="table table-zebra">
 			<tbody>
-				{#each Object.entries(data.files) as [index, file], i}
+				{#each data.files as file, i}
 					<tr>
 						<th>{i + 1}</th>
 						<td><a data-sveltekit-preload-data="hover" href={file.slug}>{file.title}</a></td>
 						<td
 							><a
 								data-sveltekit-preload-data="hover"
-								class="btn btn-sm rounded-full"
+								class="btn btn-sm rounded-full btn-secondary"
 								href={file.slug}>View Files</a
 							></td
 						>

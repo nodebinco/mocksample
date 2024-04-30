@@ -34,6 +34,7 @@ a {
 	@apply hover:underline;
 }
 
-strong, .btn {
-    @apply font-NotoSans;
+strong,
+.btn {
+	@apply font-NotoSans;
 }

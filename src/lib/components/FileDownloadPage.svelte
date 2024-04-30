@@ -5,6 +5,7 @@
 <svelte:head>
 	<title>{data.metaTitle}</title>
 	<meta name="description" content={data.metaDescription} />
+	<meta name="keywords" content={data.metaKeywords} />
 </svelte:head>
 
 <section class="text-center max-w-5xl mx-auto">
@@ -45,7 +46,7 @@
 	<div class="mt-8 text-left">
 		<h2>Faqs</h2>
 
-		<ul class="list-decimal">
+		<ul class="list-decimal space-y-2">
 			{#each data.faqs as faq}
 				<li>
 					<strong>{faq.question}</strong>
