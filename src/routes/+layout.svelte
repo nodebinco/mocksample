@@ -97,10 +97,6 @@
 					slug: '/sample-pdf-files'
 				},
 				{
-					title: 'CSV',
-					slug: '/sample-csv-files'
-				},
-				{
 					title: 'DOC',
 					slug: '/sample-doc-files'
 				},
@@ -111,6 +107,10 @@
 				{
 					title: 'PPT',
 					slug: '/sample-ppt-files'
+				},
+				{
+					title: 'PPTX',
+					slug: '/sample-pptx-files'
 				},
 				{
 					title: 'XLS',
@@ -173,13 +173,25 @@
 				{
 					title: 'BMP',
 					slug: '/sample-bmp-files'
+				},
+				{
+					title: 'PSD',
+					slug: '/sample-psd-files'
+				},
+				{
+					title: 'AI',
+					slug: '/sample-ai-files'
 				}
 			]
 		},
 		{
-			title: 'Other Files',
-			slug: '/sample-image-files',
+			title: 'Data Files',
+			slug: '/sample-data-files',
 			submenus: [
+				{
+					title: 'CSV',
+					slug: '/sample-csv-files'
+				},
 				{
 					title: 'JSON',
 					slug: '/sample-json-files'
@@ -201,16 +213,8 @@
 					slug: '/sample-rar-files'
 				},
 				{
-					title: 'TAR GZ',
+					title: 'TAR.GZ',
 					slug: '/sample-tar-gz-files'
-				},
-				{
-					title: 'PSD',
-					slug: '/sample-psd-files'
-				},
-				{
-					title: 'AI',
-					slug: '/sample-ai-files'
 				}
 			]
 		}
@@ -257,7 +261,6 @@
 		</div>
 		<div>
 			<ul class="whitespace-nowrap inline-block space-x-4">
-				<li class="inline-block"><a data-sveltekit-preload-data="tap" href="/blog">Blog</a></li>
 				<li class="inline-block">
 					<a data-sveltekit-preload-data="tap" href="/about">About Us</a>
 				</li>

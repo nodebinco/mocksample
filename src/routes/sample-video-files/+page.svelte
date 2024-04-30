@@ -112,7 +112,9 @@
 
 <ul class="list-decimal space-y-2 mt-2">
 	<li>
-		<strong>MP4 Video Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-mp4-files"
+			><strong>MP4 Video Files</strong></a
+		>
 		The MP4 (MPEG-4 Part 14) format is arguably the most widely used video format in today's digital
 		landscape. Its widespread adoption is due to its excellent compression capabilities, high quality,
 		and cross-platform compatibility. Our collection of MP4 video files includes a variety of resolutions,
@@ -120,14 +122,18 @@
 		applications.
 	</li>
 	<li>
-		<strong>FLV Video Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-flv-files"
+			><strong>FLV Video Files</strong></a
+		>
 		Originally developed by Adobe Systems, the FLV (Flash Video) format was once a popular choice for
 		delivering video content over the internet. While its usage has declined in recent years, FLV files
 		are still widely encountered, particularly in legacy systems and applications. Our FLV video file
 		collection ensures that your applications can handle this format seamlessly.
 	</li>
 	<li>
-		<strong>AVI Video Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-avi-files"
+			><strong>AVI Video Files</strong></a
+		>
 		The AVI (Audio Video Interleave) format is a legacy video format that has been around since the early
 		days of multimedia computing. Despite being an older format, AVI files are still widely used in various
 		applications, particularly in the realm of video editing and post-production. Our AVI video file
@@ -135,7 +141,9 @@
 		systems and applications.
 	</li>
 	<li>
-		<strong>MOV Video Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-mov-files"
+			><strong>MOV Video Files</strong></a
+		>
 		The MOV (QuickTime Movie) format, developed by Apple Inc., is a popular choice for video editing
 		and post-production workflows. MOV files are known for their high quality and support for a wide
 		range of codecs and metadata. Our collection of MOV video files includes a variety of resolutions,
@@ -143,7 +151,9 @@
 		players, and other video-related applications.
 	</li>
 	<li>
-		<strong>OGG Video Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-ogg-files"
+			><strong>OGG Video Files</strong></a
+		>
 		The OGG format is an open-source, patent-free multimedia container format that supports both audio
 		and video content. While not as widely used as some of the more popular formats, OGG video files
 		are still encountered in various applications and platforms, particularly in the open-source community.
@@ -151,7 +161,9 @@
 		issues.
 	</li>
 	<li>
-		<strong>WMV Video Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-wmv-files"
+			><strong>WMV Video Files</strong></a
+		>
 		The WMV (Windows Media Video) format is a proprietary video format developed by Microsoft. Although
 		its usage has declined in recent years, WMV files are still widely encountered in various applications
 		and systems, particularly in corporate and enterprise environments. Our WMV video file collection
@@ -159,7 +171,9 @@
 		and systems that rely on this format.
 	</li>
 	<li>
-		<strong>WEBM Video Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-webm-files"
+			><strong>WEBM Video Files</strong></a
+		>
 		The WEBM format is an open-source, royalty-free video format designed specifically for the web. Its
 		efficient compression and support for HTML5 video playback make it an increasingly popular choice
 		for web-based video applications. Our collection of WEBM video files includes a variety of resolutions,
@@ -167,7 +181,9 @@
 		optimal performance.
 	</li>
 	<li>
-		<strong>MKV Video Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-mkv-files"
+			><strong>MKV Video Files</strong></a
+		>
 		The MKV (Matroska Multimedia Container) format is a open-source, free multimedia container format
 		that supports a wide range of video and audio codecs, as well as advanced features like subtitles
 		and chapter markers. MKV files are particularly popular in the media center and home theater PC communities.
@@ -175,7 +191,9 @@
 		compatibility with media center applications and other video-related software.
 	</li>
 	<li>
-		<strong>3GP Video Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-3gp-files"
+			><strong>3GP Video Files</strong></a
+		>
 		The 3GP (3rd Generation Partnership Project) format is a widely used video format for mobile devices
 		and multimedia messaging services (MMS). With the increasing prevalence of mobile video consumption,
 		ensuring compatibility with 3GP video files is crucial for many applications and services. Our 3GP

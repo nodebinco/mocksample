@@ -1,7 +1,7 @@
 <script>
 	import FileTypesPage from '$lib/components/FileTypesPage.svelte';
 	const breadcrumb = {
-		title: 'Video Files'
+		title: 'Document Files'
 	};
 
 	const files = [
@@ -24,6 +24,10 @@
 		{
 			title: 'PPT',
 			slug: '/sample-ppt-files'
+		},
+		{
+			title: 'PPTX',
+			slug: '/sample-pptx-files'
 		},
 		{
 			title: 'XLS',
@@ -111,7 +115,9 @@
 
 <ul class="list-decimal space-y-2 mt-2">
 	<li>
-		<strong>PDF Document Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-document-files"
+			><strong>PDF Document Files</strong></a
+		>
 		The Portable Document Format (PDF) is one of the most widely used document formats in the world.
 		Its cross-platform compatibility, preserving formatting and layout, and support for various multimedia
 		elements make it an essential format for sharing and distributing documents. Our collection of PDF
@@ -119,35 +125,45 @@
 		that you can thoroughly test your applications' PDF handling capabilities.
 	</li>
 	<li>
-		<strong>CSV Document Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-csv-files"
+			><strong>CSV Document Files</strong></a
+		>
 		Comma-Separated Values (CSV) files are a common format for storing tabular data, making them widely
 		used in data analysis, spreadsheet applications, and database operations. Our CSV file collection
 		includes a diverse range of data sets, covering various industries and use cases, allowing you to
 		test your applications' data handling and import/export functionalities.
 	</li>
 	<li>
-		<strong>DOC Document Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-doc-files"
+			><strong>DOC Document Files</strong></a
+		>
 		The DOC format, developed by Microsoft, has long been a standard for word processing documents. Although
 		it has been largely superseded by the newer DOCX format, DOC files are still widely used and encountered
 		in various applications and workflows. Our DOC file collection ensures that your applications can
 		handle this legacy format seamlessly, ensuring compatibility with older systems and documents.
 	</li>
 	<li>
-		<strong>DOCX Document Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-docx-files"
+			><strong>DOCX Document Files</strong></a
+		>
 		The DOCX format is the modern successor to the DOC format, offering improved compression, support
 		for advanced features, and better compatibility with newer software and systems. Our DOCX file collection
 		includes a wide range of document types, such as letters, reports, manuals, and templates, allowing
 		you to thoroughly test your word processing applications and document handling capabilities.
 	</li>
 	<li>
-		<strong>PPT Document Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-ppt-files"
+			><strong>PPT Document Files</strong></a
+		>
 		Microsoft PowerPoint (PPT) is a widely used presentation software, and its file format is a standard
 		in many industries and educational settings. Our PPT file collection covers a diverse range of presentation
 		topics, styles, and layouts, enabling you to test your applications' compatibility with this format
 		and validate features such as slide rendering, animations, and multimedia elements.
 	</li>
 	<li>
-		<strong>XLS Document Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-xls-files"
+			><strong>XLS Document Files</strong></a
+		>
 		The XLS format, developed by Microsoft for spreadsheet documents, has been a staple in various industries
 		for data analysis, financial modeling, and numerical calculations. While it has been superseded by
 		the newer XLSX format, XLS files are still encountered in many legacy systems and workflows. Our
@@ -155,7 +171,9 @@
 		compatibility with older spreadsheet documents.
 	</li>
 	<li>
-		<strong>XLSX Document Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-xlsx-files"
+			><strong>XLSX Document Files</strong></a
+		>
 		The XLSX format is the modern successor to the XLS format, offering improved compression, support
 		for larger spreadsheets, and better compatibility with newer software and systems. Our XLSX file
 		collection includes a wide range of spreadsheet documents, covering various industries and use cases,
@@ -163,7 +181,9 @@
 		test your spreadsheet applications and document handling capabilities.
 	</li>
 	<li>
-		<strong>ODT Document Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-odt-files"
+			><strong>ODT Document Files</strong></a
+		>
 		The OpenDocument Text (ODT) format is an open-source, XML-based file format for word processing documents,
 		developed by the Open Office initiative. While not as widely used as proprietary formats like DOCX,
 		ODT files are increasingly being adopted in various applications and workflows, particularly in the
@@ -171,7 +191,9 @@
 		can handle this format seamlessly, promoting interoperability and accessibility.
 	</li>
 	<li>
-		<strong>PPS Document Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-pps-files"
+			><strong>PPS Document Files</strong></a
+		>
 		The PPS format is a variation of the PPT format, specifically designed for delivering slide show
 		presentations. PPS files are commonly used in situations where the presenter wants to minimize distractions
 		and focus solely on the slide content. Our PPS file collection allows you to test your applications'
@@ -179,7 +201,9 @@
 		your users.
 	</li>
 	<li>
-		<strong>TXT Document Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-txt-files"
+			><strong>TXT Document Files</strong></a
+		>
 		While the humble text file (TXT) may seem simple, it remains a ubiquitous and essential format for
 		storing and sharing plain text data. Our TXT file collection includes a diverse range of content,
 		from code snippets and configuration files to simple text documents and notes, ensuring that your

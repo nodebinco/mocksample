@@ -25,10 +25,10 @@
 			slug: '/sample-image-files'
 		},
 		{
-			name: 'Other Files',
+			name: 'Data Files',
 			description:
-				'A collection of text files and archives. The files can be downloaded in HTML and CSV formats.',
-			slug: '/sample-other-files'
+				'A collection of data files and archives. The files can be downloaded in HTML and CSV formats.',
+			slug: '/sample-data-files'
 		}
 		/*
 		{

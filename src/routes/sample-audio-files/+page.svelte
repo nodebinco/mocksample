@@ -1,7 +1,7 @@
 <script>
 	import FileTypesPage from '$lib/components/FileTypesPage.svelte';
 	const breadcrumb = {
-		title: 'Video Files'
+		title: 'Audio Files'
 	};
 
 	const files = [
@@ -104,7 +104,9 @@
 
 <ul class="list-decimal space-y-2 mt-2">
 	<li>
-		<strong>MP3 Audio Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-mp3-files"
+			><strong>MP3 Audio Files</strong></a
+		>
 		The MP3 (MPEG-1 Audio Layer III) format is arguably the most widely used audio format in the world.
 		Its widespread adoption is due to its excellent compression capabilities, which allow for high-quality
 		audio at relatively small file sizes. Our collection of MP3 audio files includes a variety of bitrates,
@@ -112,7 +114,9 @@
 		encoding applications.
 	</li>
 	<li>
-		<strong>WAV Audio Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-wav-files"
+			><strong>WAV Audio Files</strong></a
+		>
 		The WAV (Waveform Audio File Format) is an uncompressed audio format widely used in professional
 		audio applications and studios. While WAV files typically have larger file sizes compared to compressed
 		formats, they offer lossless audio quality, making them ideal for audio editing, mastering, and archiving
@@ -120,7 +124,9 @@
 		configurations, ensuring compatibility with various audio software and systems.
 	</li>
 	<li>
-		<strong>FLAC Audio Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-flac-files"
+			><strong>FLAC Audio Files</strong></a
+		>
 		The FLAC (Free Lossless Audio Codec) format is an open-source, lossless audio codec that offers high-quality
 		audio at smaller file sizes compared to uncompressed formats like WAV. FLAC files are popular among
 		audiophiles and are increasingly being adopted in music streaming services and audio players. Our
@@ -128,7 +134,9 @@
 		allowing you to thoroughly test your applications and systems.
 	</li>
 	<li>
-		<strong>AIFF Audio Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-aiff-files"
+			><strong>AIFF Audio Files</strong></a
+		>
 		The AIFF (Audio Interchange File Format) is a lossless audio format developed by Apple Inc. and commonly
 		used in professional audio applications and studios. While not as widely used as some other formats,
 		AIFF files are still encountered in various audio software and systems, particularly in the Apple
@@ -136,14 +144,18 @@
 		any compatibility issues.
 	</li>
 	<li>
-		<strong>OGG Audio Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-ogg-files"
+			><strong>OGG Audio Files</strong></a
+		>
 		The OGG format is an open-source, patent-free multimedia container format that supports both audio
 		and video content. While not as widely used as some of the more popular formats, OGG audio files
 		are still encountered in various applications and platforms, particularly in the open-source community.
 		Our OGG audio file collection ensures that your applications can handle this format seamlessly.
 	</li>
 	<li>
-		<strong>WMA Audio Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-wma-files"
+			><strong>WMA Audio Files</strong></a
+		>
 		The WMA (Windows Media Audio) format is a proprietary audio format developed by Microsoft. Although
 		its usage has declined in recent years, WMA files are still widely encountered in various applications
 		and systems, particularly in corporate and enterprise environments. Our WMA audio file collection
@@ -151,7 +163,9 @@
 		applications and systems that rely on this format.
 	</li>
 	<li>
-		<strong>M4A Audio Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-m4a-files"
+			><strong>M4A Audio Files</strong></a
+		>
 		The M4A (MPEG-4 Audio) format is a popular audio format used in various applications and devices,
 		particularly in the Apple ecosystem. M4A files are commonly used for music streaming, audiobooks,
 		and podcasts, thanks to their efficient compression and support for metadata. Our M4A audio file
@@ -159,7 +173,9 @@
 		test your audio applications and systems.
 	</li>
 	<li>
-		<strong>AAC Audio Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-aac-files"
+			><strong>AAC Audio Files</strong></a
+		>
 		The AAC (Advanced Audio Coding) format is a widely used audio codec known for its efficient compression
 		and high audio quality. AAC files are commonly used in various applications, including music streaming
 		services, video games, and multimedia content. Our AAC audio file collection covers a range of bitrates,
@@ -167,7 +183,9 @@
 		and systems.
 	</li>
 	<li>
-		<strong>ALAC Audio Files</strong>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-alac-files"
+			><strong>ALAC Audio Files</strong></a
+		>
 		The ALAC (Apple Lossless Audio Codec) format is a lossless audio codec developed by Apple Inc. ALAC
 		files offer high-quality audio without any compression artifacts, making them suitable for audiophiles
 		and professional audio applications. Our ALAC audio file collection ensures that your applications
