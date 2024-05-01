@@ -25,10 +25,6 @@
 					slug: '/sample-mov-files'
 				},
 				{
-					title: 'OGG',
-					slug: '/sample-ogg-files'
-				},
-				{
 					title: 'WMV',
 					slug: '/sample-wmv-files'
 				},
@@ -43,6 +39,10 @@
 				{
 					title: '3GP',
 					slug: '/sample-3gp-files'
+				},
+				{
+					title: 'M2TS',
+					slug: '/sample-m2ts-files'
 				}
 			]
 		},
