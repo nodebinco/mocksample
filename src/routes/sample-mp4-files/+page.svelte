@@ -9,10 +9,11 @@
 
 	const files = [
 		{
-			attr0: '750kB',
-			attr1: '480x270',
-			attr2: '30s',
-			downloadUrl: '/mocksample_mp4_750kB_480x270_30s.mp4'
+			attr0: '48MB',
+			attr1: '3840x2160',
+			attr2: '15s',
+			attr3: '50fps',
+			downloadUrl: 'mocksample_mp4_48MB_3840x2160_15s_50fps.mp4'
 		},
 		{
 			attr0: '800kB',
