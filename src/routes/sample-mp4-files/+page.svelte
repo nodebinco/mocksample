@@ -103,7 +103,7 @@
 	const metaKeywords =
 		'mp4 samples, free mp4 files, sample videos, test videos, video samples, royalty-free videos, mp4 clips, video testing, video development, mock videos';
 	const title = 'Sample MP4 Files Free Download';
-	const description = `Download free, royalty-free <strong>MP4 video samples</strong> in various sizes and resolutions to fit your project's needs. Choose from a wide range of short video clips in different resolutions and file sizes. These samples are perfect for testing video players, developing software and websites, or creating mockups and prototypes. Get started now and download your free MP4s!`;
+	const description = `Download free, royalty-free <strong>MP4 video samples with sound</strong> in various sizes and resolutions to fit your project's needs. Choose from a wide range of short video clips in different resolutions and file sizes. These samples are perfect for testing video players, developing software and websites, or creating mockups and prototypes. Get started now and download your free MP4s!`;
 
 	const data = {
 		files,
