@@ -10,10 +10,6 @@
 			slug: '/sample-pdf-files'
 		},
 		{
-			title: 'CSV',
-			slug: '/sample-csv-files'
-		},
-		{
 			title: 'DOC',
 			slug: '/sample-doc-files'
 		},
@@ -53,9 +49,9 @@
 
 	const metaTitle = 'Sample Document Files Free Download | MockSample';
 	const metaDescription =
-		'Download free sample document files in PDF, CSV, DOC, DOCX, PPT, XLS, XLSX, ODT, PPS, and TXT formats at MockSample.com for testing file handling, document viewing, collaboration, data analysis, and more. Get versatile content from text to spreadsheets and presentations.';
+		'Download free sample document files in PDF, DOC, DOCX, PPT, XLS, XLSX, ODT, PPS, and TXT formats at MockSample.com for testing file handling, document viewing, collaboration, data analysis, and more. Get versatile content from text to spreadsheets and presentations.';
 	const metaKeywords =
-		'sample document files, test document files, dummy document files, free document downloads, PDF samples, CSV samples, DOC samples, DOCX samples, PPT samples, XLS samples, XLSX samples, ODT samples, PPS samples, TXT samples, document testing, file handling testing, document rendering testing, document collaboration testing, data analysis testing, text document samples, spreadsheet samples, presentation samples, document formats';
+		'sample document files, test document files, dummy document files, free document downloads, PDF samples, DOC samples, DOCX samples, PPT samples, XLS samples, XLSX samples, ODT samples, PPS samples, TXT samples, document testing, file handling testing, document rendering testing, document collaboration testing, data analysis testing, text document samples, spreadsheet samples, presentation samples, document formats';
 	const title = 'Sample Document Files Free Download';
 	const description = `<p>In the digital age, document files have become an integral part of our daily lives, whether in professional or personal contexts. From word processing and spreadsheets to presentations and PDFs, the ability to create, edit, and share document files seamlessly is essential for various applications and workflows.</p>
   <p class="mt-2">At MockSample.com, we understand the importance of having access to a diverse range of sample document files for testing, development, and demonstration purposes. Our comprehensive collection includes a wide variety of document formats, ensuring that you have the resources you need to thoroughly test your applications and systems, or simply to have dummy files for showcasing or practicing.</p>`;
@@ -123,15 +119,6 @@
 		elements make it an essential format for sharing and distributing documents. Our collection of PDF
 		files includes a variety of content types, such as text documents, reports, manuals, and forms, ensuring
 		that you can thoroughly test your applications' PDF handling capabilities.
-	</li>
-	<li>
-		<a data-sveltekit-preload-data="hover" class="link" href="/sample-csv-files"
-			><strong>CSV Document Files</strong></a
-		>
-		Comma-Separated Values (CSV) files are a common format for storing tabular data, making them widely
-		used in data analysis, spreadsheet applications, and database operations. Our CSV file collection
-		includes a diverse range of data sets, covering various industries and use cases, allowing you to
-		test your applications' data handling and import/export functionalities.
 	</li>
 	<li>
 		<a data-sveltekit-preload-data="hover" class="link" href="/sample-doc-files"
@@ -243,7 +230,7 @@
 		<strong>Data Analysis and Processing</strong>
 		For applications focused on data analysis and processing, such as business intelligence tools and
 		data visualization platforms, having access to diverse sample data files is essential. Our collection
-		of CSV and spreadsheet files provides you with a rich dataset for testing data import, export, and
+		of XLS and spreadsheet files provides you with a rich dataset for testing data import, export, and
 		manipulation functionalities, ensuring accurate and reliable results.
 	</li>
 	<li>
@@ -358,7 +345,7 @@
 	document-related processes.
 </p>
 <p class="mt-2">
-	Our collection of sample document files covers a wide range of formats, including PDF, CSV, DOC,
+	Our collection of sample document files covers a wide range of formats, including PDF, DOC,
 	DOCX, PPT, XLS, XLSX, ODT, PPS, and TXT, catering to various testing scenarios and use cases, such
 	as file handling, document rendering, collaboration, data analysis, and more. Whether you're
 	developing a document management system, a productivity suite, or a data visualization tool, our

@@ -5,6 +5,10 @@
 	};
 
 	const files = [
+  		{
+			title: 'CSV',
+			slug: '/sample-csv-files'
+		},
 		{
 			title: 'JSON',
 			slug: '/sample-json-files'
@@ -33,9 +37,9 @@
 
 	const metaTitle = 'Sample Data Files Free Download | MockSample';
 	const metaDescription =
-		'Download free sample files including JSON, XML, HTML, ZIP, RAR, and TAR.GZ at MockSample.com for testing data parsing, web development, file compression, design workflows, and more across diverse formats.';
+		'Download free sample files including CSV, JSON, XML, HTML, ZIP, RAR, and TAR.GZ at MockSample.com for testing data parsing, web development, file compression, design workflows, and more across diverse formats.';
 	const metaKeywords =
-		'sample files, test files, dummy files, free file downloads, JSON samples, XML samples, HTML samples, ZIP samples, RAR samples, TAR.GZ samples, PSD samples, AI samples, data format samples, markup samples, compressed file samples, design file samples, file testing, data parsing testing, web development testing, file compression testing, design workflow testing';
+		'sample files, test files, dummy files, free file downloads, CSV samples, JSON samples, XML samples, HTML samples, ZIP samples, RAR samples, TAR.GZ samples, PSD samples, AI samples, data format samples, markup samples, compressed file samples, design file samples, file testing, data parsing testing, web development testing, file compression testing, design workflow testing';
 	const title = 'Sample Data Files Free Download';
 	const description = `<p>In the ever-evolving digital landscape, the diversity of file types has grown exponentially, catering to a wide range of applications and use cases. From structured data formats and markup languages to compressed archives and design file formats, the ability to handle and process various file types seamlessly is essential for developers, designers, and professionals across industries.</p>
   <p class="mt-2">At MockSample.com, we understand the importance of having access to a comprehensive collection of sample files for testing, development, and demonstration purposes. Our extensive library includes a diverse range of file types, ensuring that you have the resources you need to thoroughly validate your applications, systems, and workflows, or to simply have readily available dummy files for showcasing or practice.</p>`;
@@ -99,6 +103,15 @@
 </p>
 
 <ul class="list-decimal space-y-2 mt-2">
+  	<li>
+		<a data-sveltekit-preload-data="hover" class="link" href="/sample-csv-files"
+			><strong>CSV Document Files</strong></a
+		>
+		Comma-Separated Values (CSV) files are a common format for storing tabular data, making them widely
+		used in data analysis, spreadsheet applications, and database operations. Our CSV file collection
+		includes a diverse range of data sets, covering various industries and use cases, allowing you to
+		test your applications' data handling and import/export functionalities.
+	</li>
 	<li>
 		<a data-sveltekit-preload-data="hover" class="link" href="/sample-json-files"
 			><strong>JSON Files</strong></a
@@ -177,7 +190,7 @@
 		<strong>Data Parsing and Processing</strong>
 		One of the most common use cases for sample files is testing data parsing and processing capabilities.
 		Whether you're developing a data-intensive application, a business intelligence tool, or an integration
-		platform, ensuring that your application can handle structured data formats like JSON and XML seamlessly
+		platform, ensuring that your application can handle structured data formats like CSV, JSON and XML seamlessly
 		is crucial. Our sample files allow you to test various scenarios, such as parsing complex data structures,
 		validating data integrity, and handling large data sets.
 	</li>
@@ -283,7 +296,7 @@
 </p>
 <p class="mt-2">
 	Our collection of sample files covers a wide range of formats, including structured data formats
-	like JSON and XML, markup languages like HTML, compressed archives like ZIP and RAR, as well as
+	like CSV, JSON and XML, markup languages like HTML, compressed archives like ZIP and RAR, as well as
 	design file formats like PSD and AI. Whether you're developing a data-driven application, building
 	a content management system, or creating a cutting-edge design tool, our sample files serve as
 	invaluable resources for ensuring compatibility, performance, and reliability.
