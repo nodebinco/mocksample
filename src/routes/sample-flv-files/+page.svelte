@@ -9,28 +9,102 @@
 
 	const files = [
 		{
-			attr0: '750kB',
-			attr1: '480x270',
-			attr2: '30s',
-			downloadUrl: '/mocksample_flv_750kB_480x270_30s.flv'
+			attr0: '680KB',
+			attr1: '426x240 (240p)',
+			attr2: '15s',
+			attr3: '30fps',
+			file: 'mocksample_flv_680KB_426x240_240p_15s_30fps.flv'
 		},
 		{
-			attr0: '800kB',
-			attr1: '640x360',
-			attr2: '30s',
-			downloadUrl: '/mocksample_flv_800kB_640x360_30s.flv'
+			attr0: '1MB',
+			attr1: '640x360 (360p)',
+			attr2: '15s',
+			attr3: '30fps',
+			file: 'mocksample_flv_1MB_640x360_360p_15s_30fps.flv'
 		},
 		{
-			attr0: '1.5MB',
-			attr1: '1280x720',
-			attr2: '30s',
-			downloadUrl: '/mocksample_flv_1_5MB_1280x720_30s.flv'
+			attr0: '3MB',
+			attr1: '854x480 (480p)',
+			attr2: '15s',
+			attr3: '30fps',
+			file: 'mocksample_flv_3MB_854x480_480p_15s_30fps.flv'
 		},
 		{
-			attr0: '2.3MB',
-			attr1: '1280x720',
-			attr2: '30s',
-			downloadUrl: '/mocksample_flv_1_5MB_1280x720_30s.flv'
+			attr0: '16MB',
+			attr1: '1280x720 (720p)',
+			attr2: '15s',
+			attr3: '30fps',
+			file: 'mocksample_flv_16MB_1280x720_720p_15s_30fps.flv'
+		},
+		{
+			attr0: '28MB',
+			attr1: '1920x1080 (1080p)',
+			attr2: '15s',
+			attr3: '30fps',
+			file: 'mocksample_flv_28MB_1920x1080_1080p_15s_30fps.flv'
+		},
+		{
+			attr0: '32MB',
+			attr1: '2560x1440 (2k)',
+			attr2: '15s',
+			attr3: '30fps',
+			file: 'mocksample_flv_32MB_2560x1440_2k_15s_30fps.flv'
+		},
+		{
+			attr0: '58MB',
+			attr1: '3840x2160 (4k)',
+			attr2: '15s',
+			attr3: '30fps',
+			file: 'mocksample_flv_58MB_3840x2160_4k_15s_30fps.flv'
+		},
+		{
+			attr0: '641KB',
+			attr1: '240x426 (240p)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_flv_641KB_240x426_240p_7s_30fps.flv'
+		},
+		{
+			attr0: '1MB',
+			attr1: '360x640 (360p)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_flv_1MB_360x640_360p_7s_30fps.flv'
+		},
+		{
+			attr0: '2MB',
+			attr1: '480x854 (480p)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_flv_2MB_480x854_480p_7s_30fps.flv'
+		},
+		{
+			attr0: '5MB',
+			attr1: '720x1280 (720p)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_flv_5MB_720x1280_720p_7s_30fps.flv'
+		},
+		{
+			attr0: '32MB',
+			attr1: '1080x1920 (1080p)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_flv_32MB_1080x1920_1080p_7s_30fps.flv'
+		},
+		{
+			attr0: '35MB',
+			attr1: '1440x2560 (2k)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_flv_35MB_1440x2560_2k_7s_30fps.flv'
+		},
+		{
+			attr0: '55MB',
+			attr1: '2180x3840 (4k)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_flv_55MB_2180x3840_4k_7s_30fps.flv'
 		}
 	];
 
