@@ -9,46 +9,53 @@
 
 	const files = [
 		{
-			attr0: '3MB',
+			attr0: '2MB',
 			attr1: '426x240 (240p)',
 			attr2: '15s',
-			attr3: '50fps',
-			file: 'mocksample_mp4_3MB_426x240_240p_15s_50fps.mp4'
+			attr3: '30fps',
+			file: 'mocksample_mp4_2MB_426x240_240p_15s_30fps.mp4'
 		},
 		{
 			attr0: '3MB',
 			attr1: '640x360 (360p)',
 			attr2: '15s',
-			attr3: '50fps',
-			file: 'mocksample_mp4_3MB_640x360_360p_15s_50fps.mp4'
+			attr3: '30fps',
+			file: 'mocksample_mp4_3MB_640x360_360p_15s_30fps.mp4'
 		},
 		{
-			attr0: '6MB',
+			attr0: '7MB',
 			attr1: '854x480 (480p)',
 			attr2: '15s',
-			attr3: '50fps',
-			file: 'mocksample_mp4_6MB_854x480_480p_15s_50fps.mp4'
+			attr3: '30fps',
+			file: 'mocksample_mp4_7MB_854x480_480p_15s_30fps.mp4'
 		},
 		{
-			attr0: '24MB',
+			attr0: '16MB',
 			attr1: '1280x720 (720p)',
 			attr2: '15s',
-			attr3: '50fps',
-			file: 'mocksample_mp4_24MB_1280x720_720p_15s_50fps.mp4'
+			attr3: '30fps',
+			file: 'mocksample_mp4_16MB_1280x720_720p_15s_30fps.mp4'
 		},
 		{
-			attr0: '37MB',
+			attr0: '19MB',
+			attr1: '1920x1080 (1080p)',
+			attr2: '15s',
+			attr3: '30fps',
+			file: 'mocksample_mp4_19MB_1920x1080_1080p_15s_30fps.mp4'
+		},
+		{
+			attr0: '31MB',
 			attr1: '2560x1440 (2k)',
 			attr2: '15s',
-			attr3: '50fps',
-			file: 'mocksample_mp4_37MB_2560x1440_2k_15s_50fps.mp4'
+			attr3: '30fps',
+			file: 'mocksample_mp4_31MB_2560x1440_2k_15s_30fps.mp4'
 		},
 		{
-			attr0: '48MB',
+			attr0: '46MB',
 			attr1: '3840x2160',
 			attr2: '15s',
-			attr3: '50fps',
-			file: 'mocksample_mp4_48MB_3840x2160_15s_50fps.mp4'
+			attr3: '30fps',
+			file: 'mocksample_mp4_46MB_3840x2160_4k_15s_30fps.mp4'
 		}
 	];
 
