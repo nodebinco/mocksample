@@ -5,7 +5,7 @@
 	};
 
 	const files = [
-  		{
+		{
 			title: 'CSV',
 			slug: '/sample-csv-files'
 		},
@@ -103,7 +103,7 @@
 </p>
 
 <ul class="list-decimal space-y-2 mt-2">
-  	<li>
+	<li>
 		<a data-sveltekit-preload-data="hover" class="link" href="/sample-csv-files"
 			><strong>CSV Document Files</strong></a
 		>
@@ -190,9 +190,9 @@
 		<strong>Data Parsing and Processing</strong>
 		One of the most common use cases for sample files is testing data parsing and processing capabilities.
 		Whether you're developing a data-intensive application, a business intelligence tool, or an integration
-		platform, ensuring that your application can handle structured data formats like CSV, JSON and XML seamlessly
-		is crucial. Our sample files allow you to test various scenarios, such as parsing complex data structures,
-		validating data integrity, and handling large data sets.
+		platform, ensuring that your application can handle structured data formats like CSV, JSON and XML
+		seamlessly is crucial. Our sample files allow you to test various scenarios, such as parsing complex
+		data structures, validating data integrity, and handling large data sets.
 	</li>
 	<li>
 		<strong>Web Development and Content Management</strong>
@@ -296,10 +296,10 @@
 </p>
 <p class="mt-2">
 	Our collection of sample files covers a wide range of formats, including structured data formats
-	like CSV, JSON and XML, markup languages like HTML, compressed archives like ZIP and RAR, as well as
-	design file formats like PSD and AI. Whether you're developing a data-driven application, building
-	a content management system, or creating a cutting-edge design tool, our sample files serve as
-	invaluable resources for ensuring compatibility, performance, and reliability.
+	like CSV, JSON and XML, markup languages like HTML, compressed archives like ZIP and RAR, as well
+	as design file formats like PSD and AI. Whether you're developing a data-driven application,
+	building a content management system, or creating a cutting-edge design tool, our sample files
+	serve as invaluable resources for ensuring compatibility, performance, and reliability.
 </p>
 <p class="mt-2">
 	By leveraging our sample files and adopting robust testing methodologies and best practices, you

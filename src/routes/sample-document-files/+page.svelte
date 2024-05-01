@@ -345,9 +345,9 @@
 	document-related processes.
 </p>
 <p class="mt-2">
-	Our collection of sample document files covers a wide range of formats, including PDF, DOC,
-	DOCX, PPT, XLS, XLSX, ODT, PPS, and TXT, catering to various testing scenarios and use cases, such
-	as file handling, document rendering, collaboration, data analysis, and more. Whether you're
+	Our collection of sample document files covers a wide range of formats, including PDF, DOC, DOCX,
+	PPT, XLS, XLSX, ODT, PPS, and TXT, catering to various testing scenarios and use cases, such as
+	file handling, document rendering, collaboration, data analysis, and more. Whether you're
 	developing a document management system, a productivity suite, or a data visualization tool, our
 	sample document files serve as invaluable resources for ensuring compatibility, performance, and
 	reliability.

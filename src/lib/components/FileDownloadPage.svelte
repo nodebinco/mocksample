@@ -1,5 +1,14 @@
 <script>
 	export let data;
+
+	const downloadFile = (url) => {
+		if (typeof document !== 'undefined') {
+			let link = document.createElement('a');
+			link.href = url;
+			link.download = url.substr(url.lastIndexOf('/') + 1);
+			link.click();
+		}
+	};
 </script>
 
 <svelte:head>
@@ -37,7 +46,17 @@
 						{#if file.attr2 != null}
 							<td>{file.attr2}</td>
 						{/if}
-						<td><a class="btn btn-sm rounded-full btn-secondary" href={file.slug}>Download</a></td>
+						{#if file.attr3 != null}
+							<td>{file.attr3}</td>
+						{/if}
+						<td
+							><button
+								class="btn btn-sm rounded-full btn-secondary"
+								on:click={downloadFile(
+									'https://mocksample.nyc3.cdn.digitaloceanspaces.com/' + file.file
+								)}>Download</button
+							></td
+						>
 					</tr>
 				{/each}
 			</tbody>

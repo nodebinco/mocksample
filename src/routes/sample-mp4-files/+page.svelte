@@ -13,25 +13,25 @@
 			attr1: '3840x2160',
 			attr2: '15s',
 			attr3: '50fps',
-			downloadUrl: 'mocksample_mp4_48MB_3840x2160_15s_50fps.mp4'
+			file: 'mocksample_mp4_48MB_3840x2160_15s_50fps.mp4'
 		},
 		{
 			attr0: '800kB',
 			attr1: '640x360',
 			attr2: '30s',
-			downloadUrl: '/mocksample_mp4_800kB_640x360_30s.mp4'
+			file: '/mocksample_mp4_800kB_640x360_30s.mp4'
 		},
 		{
 			attr0: '1.5MB',
 			attr1: '1280x720',
 			attr2: '30s',
-			downloadUrl: '/mocksample_mp4_1_5MB_1280x720_30s.mp4'
+			file: '/mocksample_mp4_1_5MB_1280x720_30s.mp4'
 		},
 		{
 			attr0: '2.3MB',
 			attr1: '1280x720',
 			attr2: '30s',
-			downloadUrl: '/mocksample_mp4_1_5MB_1280x720_30s.mp4'
+			file: '/mocksample_mp4_1_5MB_1280x720_30s.mp4'
 		}
 	];
 

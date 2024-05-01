@@ -9,7 +9,7 @@
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json --watch",
 		"lint": "prettier --check . && eslint .",
 		"format": "prettier --write .",
-    "postbuild": "npx svelte-sitemap --domain https://mocksample.com --out-dir .svelte-kit/output/prerendered/pages && mv .svelte-kit/output/prerendered/pages/sitemap.xml static/sitemap.xml"
+		"postbuild": "npx svelte-sitemap --domain https://mocksample.com --out-dir .svelte-kit/output/prerendered/pages && mv .svelte-kit/output/prerendered/pages/sitemap.xml static/sitemap.xml"
 	},
 	"devDependencies": {
 		"@fontsource/fira-mono": "^4.5.10",
