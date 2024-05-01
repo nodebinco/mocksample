@@ -5,44 +5,44 @@
 	};
 
 	const files = [
-		{
-			title: 'MP4',
-			slug: '/sample-mp4-files'
-		},
-		{
-			title: 'FLV',
-			slug: '/sample-flv-files'
-		},
-		{
-			title: 'AVI',
-			slug: '/sample-avi-files'
-		},
-		{
-			title: 'MOV',
-			slug: '/sample-mov-files'
-		},
-		{
-			title: 'OGG',
-			slug: '/sample-ogg-files'
-		},
-		{
-			title: 'WMV',
-			slug: '/sample-wmv-files'
-		},
-		{
-			title: 'WEBM',
-			slug: '/sample-webm-files'
-		},
-		{
-			title: 'MKV',
-			slug: '/sample-mkv-files'
-		},
-		{
-			title: '3GP',
-			slug: '/sample-3gp-files'
-		}
-	];
-
+				{
+					title: 'MP4',
+					slug: '/sample-mp4-files'
+				},
+				{
+					title: 'FLV',
+					slug: '/sample-flv-files'
+				},
+				{
+					title: 'AVI',
+					slug: '/sample-avi-files'
+				},
+				{
+					title: 'MOV',
+					slug: '/sample-mov-files'
+				},
+				{
+					title: 'WMV',
+					slug: '/sample-wmv-files'
+				},
+				{
+					title: 'WEBM',
+					slug: '/sample-webm-files'
+				},
+				{
+					title: 'MKV',
+					slug: '/sample-mkv-files'
+				},
+				{
+					title: '3GP',
+					slug: '/sample-3gp-files'
+				},
+				{
+					title: 'M2TS',
+					slug: '/sample-m2ts-files'
+				}
+			];
+			
 	const metaTitle = 'Sample Video Files Free Download | MockSample';
 	const metaDescription =
 		'Download free sample video files in various formats like MP4, AVI, MOV, FLV, and more at MockSample.com for testing video uploads, playback, transcoding, editing, and other scenarios. Get small to large file sizes from 1KB to 100MB.';
