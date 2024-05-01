@@ -56,6 +56,55 @@
 			attr2: '15s',
 			attr3: '30fps',
 			file: 'mocksample_mp4_46MB_3840x2160_4k_15s_30fps.mp4'
+		},
+		{
+			attr0: '762KB',
+			attr1: '240x426 (240p)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_mp4_762KB_240x426_240p_7s_30fps.mp4'
+		},
+		{
+			attr0: '1MB',
+			attr1: '360x640 (360p)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_mp4_1MB_360x640_360p_7s_30fps.mp4'
+		},
+		{
+			attr0: '3MB',
+			attr1: '480x854 (480p)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_mp4_3MB_480x854_480p_7s_30fps.mp4'
+		},
+		{
+			attr0: '8MB',
+			attr1: '720x1280 (720p)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_mp4_8MB_720x1280_720p_7s_30fps.mp4'
+		},
+		{
+			attr0: '10MB',
+			attr1: '1080x1920 (1080p)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_mp4_10MB_1080x1920_1080p_7s_30fps.mp4'
+		},
+		{
+			attr0: '17MB',
+			attr1: '1440x2560 (2k)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_mp4_17MB_1440x2560_2k_7s_30fps.mp4'
+		},
+		{
+			attr0: '25MB',
+			attr1: '2180x3840 (4k)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_mp4_25MB_2180x3840_4k_7s_30fps.mp4'
 		}
 	];
 
