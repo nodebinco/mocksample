@@ -52,7 +52,7 @@
 		},
 		{
 			attr0: '46MB',
-			attr1: '3840x2160',
+			attr1: '3840x2160 (4k)',
 			attr2: '15s',
 			attr3: '30fps',
 			file: 'mocksample_mp4_46MB_3840x2160_4k_15s_30fps.mp4'
