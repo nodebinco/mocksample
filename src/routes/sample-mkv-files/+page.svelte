@@ -9,28 +9,102 @@
 
 	const files = [
 		{
-			attr0: '750kB',
-			attr1: '480x270',
-			attr2: '30s',
-			downloadUrl: '/mocksample_mkv_750kB_480x270_30s.mkv'
+			attr0: '715KB',
+			attr1: '426x240 (240p)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_mkv_715KB_426x240_240p_7s_30fps.mkv'
 		},
 		{
-			attr0: '800kB',
-			attr1: '640x360',
-			attr2: '30s',
-			downloadUrl: '/mocksample_mkv_800kB_640x360_30s.mkv'
+			attr0: '2MB',
+			attr1: '640x360 (360p)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_mkv_2MB_640x360_360p_7s_30fps.mkv'
 		},
 		{
-			attr0: '1.5MB',
-			attr1: '1280x720',
-			attr2: '30s',
-			downloadUrl: '/mocksample_mkv_1_5MB_1280x720_30s.mkv'
+			attr0: '3MB',
+			attr1: '854x480 (480p)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_mkv_3MB_854x480_480p_7s_30fps.mkv'
 		},
 		{
-			attr0: '2.3MB',
-			attr1: '1280x720',
-			attr2: '30s',
-			downloadUrl: '/mocksample_mkv_1_5MB_1280x720_30s.mkv'
+			attr0: '7MB',
+			attr1: '1280x720 (720p)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_mkv_7MB_1280x720_720p_7s_30fps.mkv'
+		},
+		{
+			attr0: '9MB',
+			attr1: '1920x1080 (1080p)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_mkv_9MB_1920x1080_1080p_7s_30fps.mkv'
+		},
+		{
+			attr0: '14MB',
+			attr1: '2560x1440 (2k)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_mkv_14MB_2560x1440_2k_7s_30fps.mkv'
+		},
+		{
+			attr0: '21MB',
+			attr1: '3840x2160 (4k)',
+			attr2: '7s',
+			attr3: '30fps',
+			file: 'mocksample_mkv_21MB_3840x2160_4k_7s_30fps.mkv'
+		},
+		{
+			attr0: '631KB',
+			attr1: '240x426 (240p)',
+			attr2: '4s',
+			attr3: '30fps',
+			file: 'mocksample_mkv_631KB_240x426_240p_4s_30fps.mkv'
+		},
+		{
+			attr0: '1MB',
+			attr1: '360x640 (360p)',
+			attr2: '4s',
+			attr3: '30fps',
+			file: 'mocksample_mkv_1MB_360x640_360p_4s_30fps.mkv'
+		},
+		{
+			attr0: '2MB',
+			attr1: '480x854 (480p)',
+			attr2: '4s',
+			attr3: '30fps',
+			file: 'mocksample_mkv_2MB_480x854_480p_4s_30fps.mkv'
+		},
+		{
+			attr0: '5MB',
+			attr1: '720x1280 (720p)',
+			attr2: '4s',
+			attr3: '30fps',
+			file: 'mocksample_mkv_5MB_720x1280_720p_4s_30fps.mkv'
+		},
+		{
+			attr0: '5MB',
+			attr1: '1080x1920 (1080p)',
+			attr2: '4s',
+			attr3: '30fps',
+			file: 'mocksample_mkv_5MB_1080x1920_1080p_4s_30fps.mkv'
+		},
+		{
+			attr0: '9MB',
+			attr1: '1440x2560 (2k)',
+			attr2: '4s',
+			attr3: '30fps',
+			file: 'mocksample_mkv_9MB_1440x2560_2k_4s_30fps.mkv'
+		},
+		{
+			attr0: '13MB',
+			attr1: '2180x3840 (4k)',
+			attr2: '4s',
+			attr3: '30fps',
+			file: 'mocksample_mkv_13MB_2180x3840_4k_4s_30fps.mkv'
 		}
 	];
 
