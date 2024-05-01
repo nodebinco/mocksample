@@ -3,32 +3,31 @@
 		{
 			name: 'Video Files',
 			description:
-				'These video files are excellent for use in testing and demos. Download free files in a variety of formats.',
+				'Explore our selection of video files, ideal for testing upload functionality, HTML5 video demonstrations, and more. Download these files in a variety of formats to suit your requirements.',
 			slug: '/sample-video-files'
 		},
 		{
 			name: 'Audio Files',
 			description:
-				'Does the testing require MP3, WAV, or another audio format? Choose free files based on size and format.',
+				'Whether you need MP3s, WAVs, or other audio formats, our library has you covered. Choose from a range of file sizes and formats for seamless integration into your testing environment.',
 			slug: '/sample-audio-files'
 		},
 		{
 			name: 'Document Files',
 			description:
-				'We provide a whole set of document formats: DOC, DOCX, ODT, PDF, XLS, PPT, PPS, and others. You can download these formats for free.',
+				'Access a comprehensive range of document formats, including DOC, DOCX, ODT, PDF, XLS, PPT, PPS, and others. These files are perfect for testing document processing and compatibility across different platforms.',
 			slug: '/sample-document-files'
 		},
 		{
 			name: 'Image Files',
 			description:
-				'An image bank for testing. Download from various sizes and formats (jpg, png, gif, webp, avif).',
+				'Enrich your testing scenarios with our extensive collection of image files, available in various sizes and formats such as jpg, png, gif, webp, and avif. Perfect for testing image rendering and manipulation.',
 			slug: '/sample-image-files'
 		},
 		{
 			name: 'Data Files',
 			description:
-				'A collection of data files and archives. The files can be downloaded in HTML and CSV formats.',
-			slug: '/sample-data-files'
+				'Elevate your testing capabilities with our collection of data files and archives, available in JSON and CSV formats. Use these files to simulate real-world data scenarios and test data processing functionalities.'
 		}
 		/*
 		{
