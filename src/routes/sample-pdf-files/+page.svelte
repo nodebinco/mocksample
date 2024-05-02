@@ -10,21 +10,21 @@
 	const files = [
 		{
 			attr0: 'Text-based',
-			attr1: '30KB',
+			attr1: '38KB',
 			attr2: '1 page',
-			downloadUrl: '/mocksample_pdf_text_based_30kb_1pg.pdf'
+			file: 'mocksample_pdf_text_based_38kb_1pg.pdf'
 		},
 		{
-			attr0: 'Image-based',
-			attr1: '150KB',
-			attr2: '1 page',
-			downloadUrl: '/mocksample_pdf_image_based_150kb_1pg.pdf'
+			attr0: 'Text, Image, Table, List and Color',
+			attr1: '3MB',
+			attr2: '4 page',
+			file: 'mocksample_pdf_complex_3mb_4pg.pdf'
 		},
 		{
 			attr0: 'Text & Image',
 			attr1: '100KB',
 			attr2: '1 page',
-			downloadUrl: '/mocksample_pdf_text_and_image_100kb_1pg.pdf'
+			file: '/mocksample_pdf_text_and_image_100kb_1pg.pdf'
 		}
 	];
 

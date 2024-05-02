@@ -9,22 +9,22 @@
 
 	const files = [
 		{
-			attr0: '2 pages',
-			attr1: '10kB',
-			attr2: 'Sample Document',
-			downloadUrl: '/sample-document.docx'
+			attr0: 'Text-based',
+			attr1: '7KB',
+			attr2: '1 page',
+			file: 'mocksample_docx_text_based_7kb_1pg.docx'
 		},
 		{
-			attr0: '5 pages',
-			attr1: '25kB',
-			attr2: 'Report Template',
-			downloadUrl: '/report-template.docx'
+			attr0: 'Text, Image, Table, List and Color',
+			attr1: '3MB',
+			attr2: '4 page',
+			file: 'mocksample_docx_complex_3mb_4pg.docx'
 		},
 		{
-			attr0: '10 pages',
-			attr1: '50kB',
-			attr2: 'Project Proposal',
-			downloadUrl: '/project-proposal.docx'
+			attr0: 'Text & Image',
+			attr1: '100KB',
+			attr2: '1 page',
+			file: '/mocksample_pdf_text_and_image_100kb_1pg.pdf'
 		}
 	];
 

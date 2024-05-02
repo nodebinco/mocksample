@@ -9,10 +9,22 @@
 
 	const files = [
 		{
-			attr0: 'OpenDocument Text',
-			attr1: '8KB',
-			attr2: '3 Pages',
-			downloadUrl: '/mocksample_odt_opendocument_text_8KB_3pages.odt'
+			attr0: 'Text-based',
+			attr1: '25KB',
+			attr2: '1 page',
+			file: 'mocksample_odt_text_based_18kb_1pg.odt'
+		},
+		{
+			attr0: 'Text, Image, Table, List and Color',
+			attr1: '3MB',
+			attr2: '4 page',
+			file: 'mocksample_odt_complex_3mb_4pg.odt'
+		},
+		{
+			attr0: 'Text & Image',
+			attr1: '100KB',
+			attr2: '1 page',
+			file: '/mocksample_pdf_text_and_image_100kb_1pg.pdf'
 		}
 	];
 

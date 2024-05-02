@@ -9,10 +9,22 @@
 
 	const files = [
 		{
-			attr0: 'Microsoft Word Document',
-			attr1: '10KB',
-			attr2: '2 Pages',
-			downloadUrl: '/mocksample_doc_msword_10KB_2pages.doc'
+			attr0: 'Text-based',
+			attr1: '25KB',
+			attr2: '1 page',
+			file: 'mocksample_doc_text_based_25kb_1pg.doc'
+		},
+		{
+			attr0: 'Text, Image, Table, List and Color',
+			attr1: '3MB',
+			attr2: '4 page',
+			file: 'mocksample_doc_complex_3mb_4pg.doc'
+		},
+		{
+			attr0: 'Text & Image',
+			attr1: '100KB',
+			attr2: '1 page',
+			file: '/mocksample_pdf_text_and_image_100kb_1pg.pdf'
 		}
 	];
 
