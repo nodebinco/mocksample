@@ -71,7 +71,7 @@
 					<h2 class="card-title">{value.name}</h2>
 					<p>{value.description}</p>
 					<div class="card-actions justify-center mt-2">
-						<a class="btn w-full" href={value.slug}>Browse</a>
+						<a class="btn text-lg w-full" href={value.slug}>Browse</a>
 					</div>
 				</div>
 			</div>
