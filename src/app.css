@@ -2,8 +2,13 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
-body, table, p, div, ul, li {
-  @apply text-base;
+body,
+table,
+p,
+div,
+ul,
+li {
+	@apply text-base;
 }
 
 h1 {

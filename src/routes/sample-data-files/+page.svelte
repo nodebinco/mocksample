@@ -42,7 +42,7 @@
 		'sample files, test files, dummy files, free file downloads, CSV samples, JSON samples, XML samples, HTML samples, ZIP samples, RAR samples, TAR.GZ samples, PSD samples, AI samples, data format samples, markup samples, compressed file samples, design file samples, file testing, data parsing testing, web development testing, file compression testing, design workflow testing';
 	const title = 'Sample Data Files Free Download';
 	const description = `<p>In the ever-evolving digital landscape, the diversity of file types has grown exponentially, catering to a wide range of applications and use cases. From structured data formats and markup languages to compressed archives and design file formats, the ability to handle and process various file types seamlessly is essential for developers, designers, and professionals across industries.</p>
-  <p class="mt-2">At MockSample.com, we understand the importance of having access to a comprehensive collection of sample files for testing, development, and demonstration purposes. Our extensive library includes a diverse range of file types, ensuring that you have the resources you need to thoroughly validate your applications, systems, and workflows, or to simply have readily available dummy files for showcasing or practice.</p>`;
+  <p class="mt-6">At MockSample.com, we understand the importance of having access to a comprehensive collection of sample files for testing, development, and demonstration purposes. Our extensive library includes a diverse range of file types, ensuring that you have the resources you need to thoroughly validate your applications, systems, and workflows, or to simply have readily available dummy files for showcasing or practice.</p>`;
 
 	const data = {
 		files,
@@ -57,7 +57,7 @@
 
 <FileTypesPage {data} />
 
-<p class="mt-2">
+<p class="mt-6">
 	Our collection of sample files covers a wide range of content and use cases, from structured data
 	formats for efficient data exchange and markup languages for web development to compressed
 	archives for file storage and transfer, as well as design file formats for creative projects.
@@ -66,14 +66,14 @@
 	our collection has something for everyone. Download our free sample files today and streamline
 	your testing, development, or demonstration processes.
 </p>
-<h2 class="mt-2">The Importance of Diverse Sample Files</h2>
+<h2 class="mt-6">The Importance of Diverse Sample Files</h2>
 <p>
 	In today's interconnected world, the ability to handle and process various file types is crucial
 	for countless applications and workflows across industries. From web development and data analysis
 	to graphic design and content management, having access to a diverse range of sample files is
 	essential for ensuring compatibility, performance, and reliability.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	Sample files serve as invaluable resources for developers, designers, and professionals alike,
 	offering opportunities for growth, validation, and exploration. For developers and testers, having
 	access to a diverse collection of sample files allows for comprehensive validation of file
@@ -82,19 +82,19 @@
 	applications or systems to end-users, ensuring a smooth and reliable experience that meets the
 	highest standards of quality.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	Designers and creative professionals can leverage sample files to test their applications' support
 	for various design file formats, ensuring seamless integration and accurate rendering of their
 	creative assets. These resources also provide a platform for experimenting with different
 	techniques, exploring new design trends, and honing skills without compromising sensitive or
 	proprietary information.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	Furthermore, individuals seeking to showcase their work or practice their skills can utilize
 	sample files as dummy or placeholder content, ensuring a polished and professional presentation
 	while maintaining confidentiality.
 </p>
-<h2 class="mt-2">Our Comprehensive Collection: Embracing Diversity and Versatility</h2>
+<h2 class="mt-6">Our Comprehensive Collection: Embracing Diversity and Versatility</h2>
 <p>
 	At MockSample.com, we take immense pride in curating a diverse and comprehensive collection of
 	sample files, meticulously designed to cater to the varied needs of our discerning users. Our
@@ -102,7 +102,7 @@
 	multitude of applications and systems, empowering you to explore and conquer new frontiers.
 </p>
 
-<ul class="list-decimal space-y-2 mt-2">
+<ul class="list-decimal space-y-6 mt-6">
 	<li>
 		<a data-sveltekit-preload-data="hover" class="link" href="/sample-csv-files"
 			><strong>CSV Document Files</strong></a
@@ -177,7 +177,7 @@
 		with this format and ensure reliable decompression and file extraction capabilities.
 	</li>
 </ul>
-<h2 class="mt-2">Testing Scenarios and Use Cases</h2>
+<h2 class="mt-6">Testing Scenarios and Use Cases</h2>
 <p>
 	Our comprehensive collection of sample files caters to a wide range of testing scenarios and use
 	cases, ensuring that your applications and systems can handle diverse file types seamlessly,
@@ -185,7 +185,7 @@
 	building a content management system, or creating a cutting-edge design tool, our sample files
 	serve as invaluable resources for ensuring compatibility, performance, and reliability.
 </p>
-<ul class="list-decimal space-y-2 mt-2">
+<ul class="list-decimal space-y-6 mt-6">
 	<li>
 		<strong>Data Parsing and Processing</strong>
 		One of the most common use cases for sample files is testing data parsing and processing capabilities.
@@ -231,7 +231,7 @@
 	To ensure comprehensive and effective testing of your applications and systems, it's important to
 	adopt robust testing methodologies and best practices. Here are some recommended approaches:
 </p>
-<ul class="list-decimal space-y-2 mt-2">
+<ul class="list-decimal space-y-6 mt-6">
 	<li>
 		<strong>Functional Testing</strong>
 		Functional testing involves verifying that your application or system behaves as expected when handling
@@ -282,26 +282,26 @@
 		your file-handling applications and systems.
 	</li>
 </ul>
-<p class="mt-2">
+<p class="mt-6">
 	By adopting these testing methodologies and best practices, in conjunction with our comprehensive
 	collection of sample files, you can ensure that your applications and systems are thoroughly
 	tested, reliable, and capable of handling diverse file types with ease.
 </p>
-<h2 class="mt-2">Conclusion</h2>
-<p class="mt-2">
+<h2 class="mt-6">Conclusion</h2>
+<p>
 	In the ever-evolving digital landscape, the ability to handle and process various file types has
 	become an indispensable skill for developers, designers, and professionals across industries. At
 	MockSample.com, we are committed to providing high-quality, comprehensive resources to streamline
 	your development, testing, and file-handling processes.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	Our collection of sample files covers a wide range of formats, including structured data formats
 	like CSV, JSON and XML, markup languages like HTML, compressed archives like ZIP and RAR, as well
 	as design file formats like PSD and AI. Whether you're developing a data-driven application,
 	building a content management system, or creating a cutting-edge design tool, our sample files
 	serve as invaluable resources for ensuring compatibility, performance, and reliability.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	By leveraging our sample files and adopting robust testing methodologies and best practices, you
 	can proactively identify and address potential issues, optimize performance, and deliver
 	exceptional user experiences. Download our free sample files today and unlock endless

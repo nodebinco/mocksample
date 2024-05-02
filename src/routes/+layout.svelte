@@ -252,9 +252,11 @@
 
 	<footer class="footer py-6 bg-base-200 text-base-content">
 		<div class="text-center px-6">
-			<a class="font-bold text-xl font-NotoSans" data-sveltekit-preload-data="tap" href="/"
-				>MockSample</a
-			>
+			<p class="w-full text-center md:text-left">
+				<a class="font-bold text-xl font-NotoSans" data-sveltekit-preload-data="tap" href="/"
+					>MockSample</a
+				>
+			</p>
 			<p>
 				Copyright © 2024 Powered by <a href="/">MockSample.com</a>
 			</p>

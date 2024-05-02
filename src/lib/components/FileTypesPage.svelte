@@ -20,7 +20,7 @@
 	<p class="mt-2 text-left">{@html data.description}</p>
 
 	<div class="overflow-x-auto mt-4 pb-4">
-		<table class="table table-zebra">
+		<table class="table table-zebra md:table-lg">
 			<tbody>
 				{#each data.files as file, i}
 					<tr>
@@ -29,7 +29,7 @@
 						<td
 							><a
 								data-sveltekit-preload-data="hover"
-								class="btn btn-sm rounded-full btn-secondary"
+								class="btn rounded-full btn-secondary md:text-base"
 								href={file.slug}>View Files</a
 							></td
 						>

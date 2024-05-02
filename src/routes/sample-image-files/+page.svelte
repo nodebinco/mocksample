@@ -58,7 +58,7 @@
 		'sample image files, test image files, dummy image files, free image downloads, JPG samples, PNG samples, GIF samples, SVG samples, TIFF samples, ICO samples, WEBP samples, AVIF samples, BMP samples, photo samples, graphic samples, icon samples, image testing, image rendering testing, image editing testing, image optimization testing';
 	const title = 'Sample Image Files Free Download';
 	const description = `<p>In the visually captivating world we live in, images have become an integral part of our digital lives, transcending boundaries and serving as powerful mediums of communication, expression, and storytelling. From stunning photographs and intricate illustrations to captivating graphics and iconic logos, the ability to seamlessly create, edit, and share image content is a cornerstone of modern creativity and innovation.</p>
-  <p class="mt-2">At MockSample.com, we recognize the paramount importance of having access to a diverse array of sample image files for testing, development, and demonstration purposes. Our meticulously curated collection encompasses a comprehensive range of image formats, ensuring that you have the resources to thoroughly validate your applications, systems, and workflows, or simply to have readily available dummy files for showcasing or honing your skills.</p>`;
+  <p class="mt-6">At MockSample.com, we recognize the paramount importance of having access to a diverse array of sample image files for testing, development, and demonstration purposes. Our meticulously curated collection encompasses a comprehensive range of image formats, ensuring that you have the resources to thoroughly validate your applications, systems, and workflows, or simply to have readily available dummy files for showcasing or honing your skills.</p>`;
 
 	const data = {
 		files,
@@ -73,7 +73,7 @@
 
 <FileTypesPage {data} />
 
-<p class="mt-2">
+<p class="mt-6">
 	Our sample image files span a multitude of content types, from high-resolution photographs and
 	intricate illustrations to captivating graphics and iconic logos, providing you with a versatile
 	resource for myriad scenarios. Whether you're a developer rigorously testing image handling
@@ -83,7 +83,7 @@
 	today, and streamline your testing, development, or demonstration processes with unparalleled
 	efficiency.
 </p>
-<h2 class="mt-2">The Importance of Sample Image Files</h2>
+<h2 class="mt-6">The Importance of Sample Image Files</h2>
 <p>
 	In the digital age, images have become the universal language of visual communication,
 	transcending industries and contexts. From captivating product photography and awe-inspiring
@@ -91,7 +91,7 @@
 	seamlessly create, edit, and share image content is a prerequisite for effective storytelling,
 	branding, and engaging user experiences.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	Sample image files serve as invaluable resources for developers, designers, and individuals alike,
 	offering a wealth of opportunities for growth, validation, and exploration. For those at the
 	forefront of software development and testing, having access to a diverse array of sample image
@@ -100,19 +100,19 @@
 	identification and resolution of potential issues before applications or systems are released to
 	end-users, ensuring a smooth and reliable experience that meets the highest standards of quality.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	Designers and creatives can leverage the power of sample image files to fuel their inspiration,
 	experiment with different styles and techniques, or simply use them as placeholder assets during
 	the ideation and prototyping phases of their projects. These versatile resources provide a canvas
 	for exploration, allowing designers to push the boundaries of their creativity while maintaining a
 	professional and polished presentation.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	Furthermore, individuals seeking to showcase their work or hone their skills can harness the
 	potential of sample image files as dummy or placeholder content, ensuring a visually appealing and
 	cohesive presentation without compromising sensitive or proprietary information.
 </p>
-<h2 class="mt-2">Our Comprehensive Collection of Sample Image Files</h2>
+<h2 class="mt-6">Our Comprehensive Collection of Sample Image Files</h2>
 <p>
 	At MockSample.com, we take immense pride in curating a diverse and comprehensive collection of
 	sample image files, meticulously designed to cater to the varied needs of our discerning users.
@@ -121,7 +121,7 @@
 	of visual expression.
 </p>
 
-<ul class="list-decimal space-y-2 mt-2">
+<ul class="list-decimal space-y-6 mt-6">
 	<li>
 		<a data-sveltekit-preload-data="hover" class="link" href="/sample-jpg-files"
 			><strong>JPG Image Files</strong></a
@@ -235,7 +235,7 @@
 		of vector graphics, ensuring consistent visual quality across various platforms and devices.
 	</li>
 </ul>
-<h2 class="mt-2">Testing Scenarios and Use Cases</h2>
+<h2 class="mt-6">Testing Scenarios and Use Cases</h2>
 <p>
 	Our comprehensive collection of sample image files caters to a wide range of testing scenarios and
 	use cases, ensuring that your applications and systems can handle image content seamlessly,
@@ -244,7 +244,7 @@
 	next-generation social media application, our sample image files serve as invaluable resources for
 	ensuring compatibility, performance, and reliability.
 </p>
-<ul class="list-decimal space-y-2 mt-2">
+<ul class="list-decimal space-y-6 mt-6">
 	<li>
 		<strong>Image File Uploads</strong>
 		One of the most common use cases for sample image files is testing image file upload functionality.
@@ -319,7 +319,7 @@
 	important to adopt robust testing methodologies and best practices. Here are some recommended
 	approaches:
 </p>
-<ul class="list-decimal space-y-2 mt-2">
+<ul class="list-decimal space-y-6 mt-6">
 	<li>
 		<strong>Functional Testing</strong>
 		Functional testing involves verifying that your application or system behaves as expected when handling
@@ -370,19 +370,19 @@
 		of your image-centric applications and systems.
 	</li>
 </ul>
-<p class="mt-2">
+<p class="mt-6">
 	By adopting these testing methodologies and best practices, in conjunction with our comprehensive
 	collection of sample image files, you can ensure that your image-centric applications and systems
 	are thoroughly tested, reliable, and deliver an exceptional user experience.
 </p>
-<h2 class="mt-2">Conclusion</h2>
-<p class="mt-2">
+<h2 class="mt-6">Conclusion</h2>
+<p>
 	In the visually captivating digital realm we inhabit, images have emerged as powerful
 	storytellers, transcending boundaries and evoking emotions, conveying messages, and shaping
 	narratives. At MockSample.com, we are committed to providing high-quality, comprehensive resources
 	to streamline your development, testing, and image-related processes.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	Our collection of sample image files covers a wide range of formats, resolutions, and content
 	types, catering to various testing scenarios and use cases, such as image rendering, processing,
 	optimization, and integration. Whether you're developing a cutting-edge image editing suite,
@@ -390,7 +390,7 @@
 	application, our sample image files serve as invaluable resources for ensuring compatibility,
 	performance, and reliability.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	By leveraging our sample image files and adopting robust testing methodologies and best practices,
 	you can proactively identify and address potential issues, optimize performance, and deliver
 	exceptional visual experiences. Download our free sample image files today and embark on a journey

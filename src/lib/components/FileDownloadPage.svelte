@@ -34,10 +34,15 @@
 	<p class="mt-2 text-left">{@html data.description}</p>
 
 	<div class="overflow-x-auto mt-4">
-		<table class="table table-zebra">
+		<table class="table table-zebra md:table-lg">
 			<tbody>
 				{#each data.files as file, i}
-					<tr>
+					<tr
+						class="hover:cursor-pointer"
+						on:click={downloadFile(
+							'https://mocksample.nyc3.cdn.digitaloceanspaces.com/' + file.file
+						)}
+					>
 						<th>{i + 1}</th>
 						<td>{file.attr0}</td>
 						{#if file.attr1 != null}
@@ -51,7 +56,7 @@
 						{/if}
 						<td
 							><button
-								class="btn btn-sm rounded-full btn-secondary"
+								class="btn rounded-full btn-secondary md:text-base"
 								on:click={downloadFile(
 									'https://mocksample.nyc3.cdn.digitaloceanspaces.com/' + file.file
 								)}>Download</button

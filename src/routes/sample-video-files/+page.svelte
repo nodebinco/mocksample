@@ -65,7 +65,7 @@
 
 <FileTypesPage {data} />
 
-<p class="mt-2">
+<p class="mt-6">
 	Our sample video files are designed to cater to a wide range of testing scenarios, including video
 	file uploads, video playback functionality, and stress testing systems with large video files.
 	Whether you're a developer working on a video streaming platform, a tester validating video
@@ -73,20 +73,20 @@
 	has something for everyone. Download our free sample video files today and streamline your
 	development and testing processes.
 </p>
-<h2 class="mt-2">The Importance of Sample Video Files</h2>
+<h2 class="mt-6">The Importance of Sample Video Files</h2>
 <p>
 	In the ever-evolving digital landscape, video content has become an indispensable part of
 	countless applications, websites, and software systems. From video streaming platforms to video
 	conferencing tools, and from video editing suites to media players, the demand for robust and
 	efficient video handling capabilities is higher than ever before.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	However, developing and testing video-related features can be a daunting task, particularly when
 	it comes to ensuring compatibility with various video formats, resolutions, and file sizes. This
 	is where sample video files come into play, offering a reliable and convenient solution for
 	developers and testers alike.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	Sample video files serve as invaluable resources during the development and testing phases of any
 	video-related project. They allow developers to simulate real-world scenarios, validate video
 	processing algorithms, and ensure smooth playback across different platforms and devices. Testers,
@@ -94,7 +94,7 @@
 	functionality, stress test systems with large files, and verify the integrity of video content
 	after processing or transcoding.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	By having access to a diverse range of sample video files, developers and testers can proactively
 	identify and address potential issues, such as compatibility problems, performance bottlenecks, or
 	codec-related bugs, before releasing their applications or systems to end-users. This proactive
@@ -102,7 +102,7 @@
 	and resources that would otherwise be spent on fixing issues after deployment.
 </p>
 
-<h2 class="mt-2">Our Comprehensive Collection of Sample Video Files</h2>
+<h2 class="mt-6">Our Comprehensive Collection of Sample Video Files</h2>
 <p>
 	At MockSample.com, we understand the importance of providing a diverse and comprehensive
 	collection of sample video files to cater to the varied needs of our users. Our library includes a
@@ -110,7 +110,7 @@
 	need to thoroughly test your applications and systems.
 </p>
 
-<ul class="list-decimal space-y-2 mt-2">
+<ul class="list-decimal space-y-6 mt-6">
 	<li>
 		<a data-sveltekit-preload-data="hover" class="link" href="/sample-mp4-files"
 			><strong>MP4 Video Files</strong></a
@@ -201,13 +201,13 @@
 		thoroughly test your mobile applications and ensure optimal video playback and sharing capabilities.
 	</li>
 </ul>
-<h2 class="mt-2">Testing Scenarios and Use Cases</h2>
+<h2 class="mt-6">Testing Scenarios and Use Cases</h2>
 <p>
 	Our comprehensive collection of sample video files caters to a wide range of testing scenarios and
 	use cases, ensuring that your applications and systems can handle video content seamlessly,
 	regardless of the format, resolution, or file size.
 </p>
-<ul class="list-decimal space-y-2 mt-2">
+<ul class="list-decimal space-y-6 mt-6">
 	<li>
 		<strong>Video File Uploads</strong>
 		One of the most common use cases for sample video files is testing video file upload functionality.
@@ -288,7 +288,7 @@
 	important to adopt robust testing methodologies and best practices. Here are some recommended
 	approaches:
 </p>
-<ul class="list-decimal space-y-2 mt-2">
+<ul class="list-decimal space-y-6 mt-6">
 	<li>
 		<strong>Functional Testing</strong>
 		Functional testing involves verifying that your application or system behaves as expected when handling
@@ -343,26 +343,26 @@
 		and systems.
 	</li>
 </ul>
-<p class="mt-2">
+<p class="mt-6">
 	By adopting these testing methodologies and best practices, in conjunction with our comprehensive
 	collection of sample video files, you can ensure that your video-related applications and systems
 	are thoroughly tested, reliable, and deliver an exceptional user experience.
 </p>
-<h2 class="mt-2">Conclusion</h2>
-<p class="mt-2">
+<h2 class="mt-6">Conclusion</h2>
+<p>
 	In the ever-evolving digital landscape, where video content plays a pivotal role in countless
 	applications and services, having access to a diverse range of sample video files is essential for
 	developers and testers alike. At MockSample.com, we understand the importance of providing
 	high-quality, comprehensive resources to streamline your development and testing processes.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	Our collection of sample video files covers a wide range of formats, resolutions, and file sizes,
 	catering to various testing scenarios and use cases, such as video file uploads, playback,
 	streaming, transcoding, editing, and more. Whether you're developing a video streaming platform, a
 	video conferencing tool, or a video analytics application, our sample video files serve as
 	invaluable resources for ensuring compatibility, performance, and reliability.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	Our collection of sample video files covers a wide range of formats, resolutions, and file sizes,
 	catering to various testing scenarios and use cases, such as video file uploads, playback,
 	streaming, transcoding, editing, and more. Whether you're developing a video streaming platform, a

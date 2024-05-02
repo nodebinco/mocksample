@@ -54,7 +54,7 @@
 		'sample document files, test document files, dummy document files, free document downloads, PDF samples, DOC samples, DOCX samples, PPT samples, XLS samples, XLSX samples, ODT samples, PPS samples, TXT samples, document testing, file handling testing, document rendering testing, document collaboration testing, data analysis testing, text document samples, spreadsheet samples, presentation samples, document formats';
 	const title = 'Sample Document Files Free Download';
 	const description = `<p>In the digital age, document files have become an integral part of our daily lives, whether in professional or personal contexts. From word processing and spreadsheets to presentations and PDFs, the ability to create, edit, and share document files seamlessly is essential for various applications and workflows.</p>
-  <p class="mt-2">At MockSample.com, we understand the importance of having access to a diverse range of sample document files for testing, development, and demonstration purposes. Our comprehensive collection includes a wide variety of document formats, ensuring that you have the resources you need to thoroughly test your applications and systems, or simply to have dummy files for showcasing or practicing.</p>`;
+  <p class="mt-6">At MockSample.com, we understand the importance of having access to a diverse range of sample document files for testing, development, and demonstration purposes. Our comprehensive collection includes a wide variety of document formats, ensuring that you have the resources you need to thoroughly test your applications and systems, or simply to have dummy files for showcasing or practicing.</p>`;
 
 	const data = {
 		files,
@@ -69,7 +69,7 @@
 
 <FileTypesPage {data} />
 
-<p class="mt-2">
+<p class="mt-6">
 	Our sample document files cover a range of content types, from text documents and spreadsheets to
 	presentations and data files, providing you with a versatile resource for various scenarios.
 	Whether you're a developer testing file handling capabilities, an educator needing sample files
@@ -77,14 +77,14 @@
 	collection has something for everyone. Download our free sample document files today and
 	streamline your testing, development, or demonstration processes.
 </p>
-<h2 class="mt-2">The Importance of Sample Document Files</h2>
+<h2 class="mt-6">The Importance of Sample Document Files</h2>
 <p>
 	In today's digital landscape, document files play a crucial role in virtually every industry and
 	aspect of our lives. From business proposals and financial reports to academic papers and creative
 	writing, the ability to create, edit, and share document files efficiently is essential for
 	productivity and collaboration.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	Sample document files serve as invaluable resources for developers, testers, educators, and
 	individuals alike. For developers and testers, having access to a diverse range of sample document
 	files allows them to thoroughly validate file handling capabilities, such as file uploads,
@@ -92,24 +92,24 @@
 	potential issues before releasing applications or systems to end-users, ensuring a smooth and
 	reliable experience.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	Educators and trainers can also benefit greatly from sample document files. These files can be
 	used for demonstrations, exercises, and practice scenarios, providing students with realistic
 	examples and opportunities to familiarize themselves with various document formats and workflows.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	Furthermore, individuals seeking to showcase their work or practice their skills can leverage
 	sample document files as dummy or placeholder content, ensuring a professional and polished
 	presentation without compromising sensitive or proprietary information.
 </p>
-<h2 class="mt-2">Our Comprehensive Collection of Sample Document Files</h2>
+<h2 class="mt-6">Our Comprehensive Collection of Sample Document Files</h2>
 <p>
 	At MockSample.com, we pride ourselves on providing a diverse and comprehensive collection of
 	sample document files to cater to the varied needs of our users. Our library includes a wide range
 	of document formats, ensuring compatibility with various applications and systems.
 </p>
 
-<ul class="list-decimal space-y-2 mt-2">
+<ul class="list-decimal space-y-6 mt-6">
 	<li>
 		<a data-sveltekit-preload-data="hover" class="link" href="/sample-document-files"
 			><strong>PDF Document Files</strong></a
@@ -197,13 +197,13 @@
 		applications can handle this fundamental file format without any issues.
 	</li>
 </ul>
-<h2 class="mt-2">Testing Scenarios and Use Cases</h2>
+<h2 class="mt-6">Testing Scenarios and Use Cases</h2>
 <p>
 	Our comprehensive collection of sample document files caters to a wide range of testing scenarios
 	and use cases, ensuring that your applications and systems can handle document content seamlessly,
 	regardless of the format or complexity.
 </p>
-<ul class="list-decimal space-y-2 mt-2">
+<ul class="list-decimal space-y-6 mt-6">
 	<li>
 		<strong>File Handling and Processing</strong>
 		One of the most common use cases for sample document files is testing file handling and processing
@@ -276,13 +276,13 @@
 		preparing them for real-world challenges.
 	</li>
 </ul>
-<h2 class="mt-4">Testing Methodologies and Best Practices</h2>
+<h2 class="mt-6">Testing Methodologies and Best Practices</h2>
 <p>
 	To ensure comprehensive and effective testing of your document-centric applications and systems,
 	it's important to adopt robust testing methodologies and best practices. Here are some recommended
 	approaches:
 </p>
-<ul class="list-decimal space-y-2 mt-2">
+<ul class="list-decimal space-y-6 mt-6">
 	<li>
 		<strong>Functional Testing</strong> Functional testing involves verifying that your application or
 		system behaves as expected when handling various document-related tasks, such as file uploads, downloads,
@@ -332,19 +332,19 @@
 		of your document-centric applications and systems.
 	</li>
 </ul>
-<p class="mt-2">
+<p class="mt-6">
 	By adopting these testing methodologies and best practices, in conjunction with our comprehensive
 	collection of sample document files, you can ensure that your document-centric applications and
 	systems are thoroughly tested, reliable, and deliver an exceptional user experience.
 </p>
-<h2 class="mt-2">Conclusion</h2>
-<p class="mt-2">
+<h2 class="mt-6">Conclusion</h2>
+<p>
 	In the modern digital landscape, document files are ubiquitous and essential for countless
 	applications and workflows, spanning industries and contexts. At MockSample.com, we are committed
 	to providing high-quality, comprehensive resources to streamline your development, testing, and
 	document-related processes.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	Our collection of sample document files covers a wide range of formats, including PDF, DOC, DOCX,
 	PPT, XLS, XLSX, ODT, PPS, and TXT, catering to various testing scenarios and use cases, such as
 	file handling, document rendering, collaboration, data analysis, and more. Whether you're
@@ -352,7 +352,7 @@
 	sample document files serve as invaluable resources for ensuring compatibility, performance, and
 	reliability.
 </p>
-<p class="mt-2">
+<p class="mt-6">
 	By leveraging our sample document files and adopting robust testing methodologies and best
 	practices, you can proactively identify and address potential issues, optimize performance, and
 	deliver exceptional user experiences. Download our free sample document files today and take the
