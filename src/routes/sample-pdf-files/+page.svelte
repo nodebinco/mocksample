@@ -13,18 +13,18 @@
 			attr1: '38KB',
 			attr2: '1 page',
 			file: 'mocksample_pdf_text_based_38kb_1pg.pdf'
-		},
+		},,
+		{
+			attr0: 'Text & Image',
+			attr1: '100KB',
+			attr2: '2 page',
+			file: 'mocksample_pdf_text_image_682kb_2pg.pdf'
+		}
 		{
 			attr0: 'Text, Image, Table, List and Color',
 			attr1: '3MB',
 			attr2: '4 page',
 			file: 'mocksample_pdf_complex_3mb_4pg.pdf'
-		},
-		{
-			attr0: 'Text & Image',
-			attr1: '100KB',
-			attr2: '1 page',
-			file: '/mocksample_pdf_text_and_image_100kb_1pg.pdf'
 		}
 	];
 

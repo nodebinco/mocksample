@@ -15,17 +15,17 @@
 			file: 'mocksample_docx_text_based_7kb_1pg.docx'
 		},
 		{
+			attr0: 'Text & Image',
+			attr1: '760KB',
+			attr2: '2 page',
+			file: 'mocksample_docx_text_image_760kb_2pg.docx'
+		},
+		{
 			attr0: 'Text, Image, Table, List and Color',
 			attr1: '3MB',
 			attr2: '4 page',
 			file: 'mocksample_docx_complex_3mb_4pg.docx'
 		},
-		{
-			attr0: 'Text & Image',
-			attr1: '100KB',
-			attr2: '1 page',
-			file: '/mocksample_pdf_text_and_image_100kb_1pg.pdf'
-		}
 	];
 
 	const faqs = [
