@@ -2,6 +2,10 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+body, table, p, div, ul, li {
+  @apply text-base;
+}
+
 h1 {
 	@apply text-3xl font-bold py-2 font-NotoSans;
 }

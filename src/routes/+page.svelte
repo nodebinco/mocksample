@@ -64,7 +64,7 @@
 		free to download and use. We care for our content. All files are safe from viruses and
 		adults-only content.
 	</p>
-	<div class="my-8 grid grid-cols-1 md:grid-cols-3 gap-6">
+	<div class="my-8 grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
 		{#each Object.entries(files) as [key, value]}
 			<div class="card bg-base-100 shadow">
 				<div class="card-body">

@@ -7,7 +7,7 @@
 		title: 'MOV'
 	};
 
-	const files =  [
+	const files = [
 		{
 			attr0: '717KB',
 			attr1: '426x240 (240p)',
