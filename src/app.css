@@ -8,42 +8,42 @@ p,
 div,
 ul,
 li {
-	@apply text-base;
+  @apply text-base;
 }
 
 h1 {
-	@apply text-3xl font-bold py-2 font-NotoSans;
+  @apply text-3xl font-bold py-2 font-NotoSans;
 }
 
 h2 {
-	@apply text-2xl font-bold py-2 font-NotoSans;
+  @apply text-2xl font-bold py-2 font-NotoSans;
 }
 
 h3 {
-	@apply text-xl font-semibold py-2 font-NotoSans;
+  @apply text-xl font-semibold py-2 font-NotoSans;
 }
 
 h4 {
-	@apply text-lg font-semibold py-2 font-NotoSans;
+  @apply text-lg font-semibold py-2 font-NotoSans;
 }
 
 p {
-	@apply text-gray-700 py-1;
+  @apply text-gray-700 py-1;
 }
 
 ul {
-	@apply list-disc pl-8 py-1 text-gray-700;
+  @apply list-disc pl-8 py-1 text-gray-700;
 }
 
 ol {
-	@apply list-decimal pl-8 py-1 text-gray-700;
+  @apply list-decimal pl-8 py-1 text-gray-700;
 }
 
 a {
-	@apply hover:underline;
+  @apply hover:underline;
 }
 
 strong,
 .btn {
-	@apply font-NotoSans;
+  @apply font-NotoSans;
 }
