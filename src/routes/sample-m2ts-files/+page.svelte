@@ -152,6 +152,7 @@
     files,
     metaTitle,
     metaDescription,
+    metaKeywords,
     title,
     description,
     breadcrumb,

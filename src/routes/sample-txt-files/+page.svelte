@@ -68,6 +68,7 @@
     metaTitle,
     metaDescription,
     title,
+    metaKeywords,
     description,
     breadcrumb,
     faqs
