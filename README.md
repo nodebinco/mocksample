@@ -1,13 +1,12 @@
-# MockSampleFiles.com - Your Go-To Resource for Free Mock Files
+# MockSample.com - Your Go-To Resource for Free Mock Files
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Website Status](https://img.shields.io/website/http/mocksample.com.svg?down_color=red&up_color=green)](https://mocksample.com)
 
-**Stuck needing dummy files for testing, demos, or presentations? MockSampleFiles.com is your solution!**
+**Stuck needing dummy files for testing, demos, or presentations? MockSample.com is your solution!**
 
-[MockSampleFiles.com](https://mocksample.com) offers a meticulously organized and constantly growing library of free, safe, and diverse mock files designed to simplify your development and presentation workflows. From testing intricate upload functionalities to crafting compelling HTML5 video demonstrations and simulating real-world data scenarios, we provide the reliable mock files you need, without the hassle.
+[MockSample.com](https://mocksample.com) offers a meticulously organized and constantly growing library of free, safe, and diverse mock files designed to simplify your development and presentation workflows. From testing intricate upload functionalities to crafting compelling HTML5 video demonstrations and simulating real-world data scenarios, we provide the reliable mock files you need, without the hassle.
 
-## Why Developers, Testers, and Presenters Love MockSampleFiles.com:
+## Why Developers, Testers, and Presenters Love MockSample.com:
 
 * **Extensive Range of File Formats:** We understand that different tasks require different file types. That's why we offer a broad spectrum of formats across all our categories:
 
