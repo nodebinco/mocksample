@@ -79,3 +79,28 @@
     {/each}
   </div>
 </section>
+
+<section class="text-center max-w-3xl mx-auto py-10">
+  <h2>Recommended Tools</h2>
+  <p class="mt-2">Here are some helpful tools you might find useful:</p>
+  <div class="mt-6 grid grid-cols-1 md:grid-cols-2 gap-4">
+    <div class="card bg-base-200 shadow-md">
+      <div class="card-body">
+        <h3 class="card-title">Online Markdown Editor and Preview</h3>
+        <p>Create and preview Markdown in real-time.</p>
+        <div class="card-actions justify-end">
+          <a href="https://onlinemarkdown.com/" class="btn btn-sm">Visit Online Markdown Editor</a>
+        </div>
+      </div>
+    </div>
+    <div class="card bg-base-200 shadow-md">
+      <div class="card-body">
+        <h3 class="card-title">Online Notepad and Text Editor</h3>
+        <p>A simple and convenient online text editor for quick notes and edits.</p>
+        <div class="card-actions justify-end">
+          <a href="https://notepadplus.org/" class="btn btn-sm">Visit Notepad Plus</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
