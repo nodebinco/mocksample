@@ -1,5 +1,6 @@
 # MockSample.com - Your Go-To Resource for Free Mock Files
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Website Status](https://img.shields.io/website/http/mocksample.com.svg?down_color=red&up_color=green)](https://mocksample.com)
 
 **Stuck needing dummy files for testing, demos, or presentations? MockSample.com is your solution!**
@@ -66,7 +67,7 @@
         * RAR
         * TAR.GZ
 
-* **Completely Free Access:** All files on MockSampleFiles.com are provided free of charge for both personal and commercial use. No subscriptions, no hidden fees – just free mock files.
+* **Completely Free Access:** All files on MockSample.com are provided free of charge for both personal and commercial use. No subscriptions, no hidden fees – just free mock files.
 
 * **Safety First:** Your security is paramount. Every file is rigorously scanned for viruses and guaranteed to be free of any adult content, providing you with peace of mind.
 
@@ -90,7 +91,7 @@ Explore our extensive collections by clicking on the links below:
 
 ## Start Downloading Today - It's Free and Easy!
 
-Visit [MockSampleFiles.com](https://mocksample.com) now and discover the perfect mock files for your immediate needs. Our straightforward website makes finding and downloading files a breeze.
+Visit [MockSample.com](https://mocksample.com) now and discover the perfect mock files for your immediate needs. Our straightforward website makes finding and downloading files a breeze.
 
 ## Our Commitment to Quality and Safety
 
@@ -98,10 +99,10 @@ We are dedicated to maintaining a high standard for all our mock files. Regular 
 
 ## License Information
 
-The content and files provided on [MockSampleFiles.com](https://mocksample.com) are licensed under the permissive [MIT License](https://opensource.org/licenses/MIT).
+The content and files provided on [MockSample.com](https://mocksample.com) are licensed under the permissive [MIT License](https://opensource.org/licenses/MIT).
 
 ## Get in Touch
 
 For any inquiries, suggestions, or feedback, please don't hesitate to [contact us](https://mocksample.com/contact) (replace with your actual contact page link). We value your input!
 
-**Thank you for making MockSampleFiles.com your trusted source for free mock files!**
+**Thank you for making MockSample.com your trusted source for free mock files!**
