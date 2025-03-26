@@ -27,7 +27,8 @@
     {
       name: 'Data Files',
       description:
-        'Elevate your testing capabilities with our collection of data files and archives, available in JSON and CSV formats. Use these files to simulate real-world data scenarios and test data processing functionalities.'
+        'Elevate your testing capabilities with our collection of data files and archives, available in JSON and CSV formats. Use these files to simulate real-world data scenarios and test data processing functionalities.',
+      slug: 'https://www.mocksample.com/sample-data-files'
     }
     /*
 		{
