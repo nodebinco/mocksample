@@ -258,7 +258,7 @@
         >
       </p>
       <p>
-        Copyright © 2024 Powered by <a href="/">MockSample.com</a>
+        Copyright © {new Date().getFullYear()} Powered by <a href="/">MockSample.com</a>
       </p>
     </div>
     <div>
